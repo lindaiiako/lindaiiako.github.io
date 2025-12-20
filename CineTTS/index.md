@@ -10,7 +10,43 @@ Abstract here
 ## Audio Demo
 We present some examples of speech synthesized by CineTTS, along with the ground truth and outputs from baseline models used in the user study.
 
+<table style="width:100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width:30%">
+    <col style="width:50%">
+    <col style="width:20%">
+  </colgroup>
 
+  <thead>
+    <tr>
+      <th>Speaker Description</th>
+      <th>Dialog</th>
+      <th>Audio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        The speaker is a male adult. The speaker's relationship with the dialog partner is distant.
+      </td>
+      <td>
+        DIALOG HISTORY:<br>
+        [SPK0]: Why do I have to be Haas?<br>
+        [SPK1]: Because you're good at what you do.<br>
+        [SPK2]: And why do I have to be you?<br><br>
+        NEXT UTTERANCE:<br>
+        [SPK1]: First of all, you will never be me. And second of all, I forget your question.
+      </td>
+      <td>
+        MSenC: <audio controls src="wavs/samples/474_MSenC.wav"></audio><br><br>
+        StyleTTS2: <audio controls src="wavs/samples/474_StyleTTS2.wav"></audio><br><br>
+        IndexTTS2: <audio controls src="wavs/samples/474_IndexTTS2.wav"></audio><br><br>
+        CineTTS: <audio controls src="wavs/samples/474_CineTTS.wav"></audio><br><br>
+        Ground Truth: <audio controls src="wavs/samples/474_GT.wav"></audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 ## Varying Persona
