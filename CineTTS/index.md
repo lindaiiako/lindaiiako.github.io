@@ -19,7 +19,58 @@ In this section, we demonstrate that our model can generate different speech sty
 **Reference Speech:**  
 <audio controls src="wavs/diff_persona_1/ref_speech.wav"></audio>
 
-**Dialog:**  
+**Dialog History:**  
+[SPK0]: Anyway, I can see you're far more in need of responsible advice than I realised. Nobody does anything worth doing without a degree.
+[SPK1]: Nobody does anything worth doing with a degree. No woman, anyway.
+[SPK0]: So what I do isn't worth doing, or what Miss Stubbs does, or Mrs Wilson, or any of us here.
+**Next Utterance:***
+[SPK0]: Because none of us would be here without a degree, you do realise that, don't you? And yes, of course, studying is hard and boring.
+
+<table style="width:100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:30%">
+    <col style="width:10%">
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th>Speaker Description</th>
+      <th>Predicted Style</th>
+      <th>Audio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        The speaker is a female adult introvert. The speaker's relationship with the dialog partner is distant.
+      </td>
+      <td>
+        slightly expressive,<br>
+        moderate speed,<br>
+        moderate pitch
+      </td>
+      <td>
+        <audio controls src="wavs/diff_persona_1/a.wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The speaker is a female adult extrovert. The speaker's relationship with the dialog partner is distant.
+      </td>
+      <td>
+        expressive,<br>
+        moderate speed,<br>
+        high pitch
+      </td>
+      <td>
+        <audio controls src="wavs/diff_persona_1/b.wav"></audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ---
 ## Varying Dialog
@@ -79,23 +130,6 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
       </td>
       <td>
         <audio controls src="wavs/diff_situation_1/b.wav"></audio>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        [SPK0]: You froze the account.<br>
-        [SPK1]: I had to get your attention, Mark.<br>
-        [SPK0]: Do you realize that you jeopardized the entire company? Do you realize that your actions could have permanently destroyed everything I've been working on? We have been working on- Without money, the site can't function. Okay, let me tell you the difference between Facebook and everybody else.<br><br>
-        NEXT UTTERANCE:<br>
-        [SPK0]: We don't crash ever. If the servers are down for even a day, our entire reputation is irreversibly destroyed.
-      </td>
-      <td>
-        slightly expressive,<br>
-        fast speed,<br>
-        high pitch
-      </td>
-      <td>
-        <audio controls src="wavs/diff_situation_1/c.wav"></audio>
       </td>
     </tr>
   </tbody>
