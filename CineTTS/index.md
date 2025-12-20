@@ -14,8 +14,9 @@ We present some examples of speech synthesized by CineTTS, along with the ground
 
 ---
 ## Varying Persona
-In this section, we demonstrate that our model can generate different speech styles given the same reference voice, and dialog history, but **<u>varying speaker characteristics</u>**. 
+In this section, we demonstrate our model's capability to generate different speech styles given the same reference voice, and dialog history, but **<u>varying speaker characteristics</u>**. 
 
+### Demo 1
 **Reference Speech:**  
 <audio controls src="wavs/diff_persona_1/ref_speech.wav"></audio>
 
@@ -44,7 +45,7 @@ In this section, we demonstrate that our model can generate different speech sty
   <tbody>
     <tr>
       <td>
-        The speaker is a female adult introvert. The speaker's relationship with the dialog partner is distant.
+        The speaker is a female adult <i>introvert</i>. The speaker's relationship with the dialog partner is distant.
       </td>
       <td>
         slightly expressive,<br>
@@ -57,7 +58,7 @@ In this section, we demonstrate that our model can generate different speech sty
     </tr>
     <tr>
       <td>
-        The speaker is a female adult extrovert. The speaker's relationship with the dialog partner is distant.
+        The speaker is a female adult <i>extrovert</i>. The speaker's relationship with the dialog partner is distant.
       </td>
       <td>
         expressive,<br>
@@ -71,11 +72,65 @@ In this section, we demonstrate that our model can generate different speech sty
   </tbody>
 </table>
 
+### Demo 2
+**Reference Speech:**  
+<audio controls src="wavs/diff_persona_2/ref_speech.wav"></audio>
 
+**Dialog History:**  
+[SPK0]: 1811 Mason. Put it in box 3C, so you won't have no trouble.<br>
+[SPK0]: There's $5,000 there.<br>
+[SPK0]: And here's 100 bucks for you.<br>
+
+**Next Utterance:**<br>
+[SPK1]: Okay, old man, I'll make your drop for you.
+
+<table style="width:100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:30%">
+    <col style="width:10%">
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th>Speaker Description</th>
+      <th>Predicted Style</th>
+      <th>Audio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        The speaker is a male <i>adult<i>. The speaker's relationship with the dialog partner is distant.
+      </td>
+      <td>
+        monotone,<br>
+        fast speed,<br>
+        moderate pitch
+      </td>
+      <td>
+        <audio controls src="wavs/diff_persona_2/a.wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The speaker is a male <i>elderly</i>. The speaker's relationship with the dialog partner is distant.
+      </td>
+      <td>
+        monotone,<br>
+        moderate speed,<br>
+        low pitch
+      </td>
+      <td>
+        <audio controls src="wavs/diff_persona_2/b.wav"></audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 ## Varying Dialog
-In this section, we demonstrate that our model can generate different speech styles given the same reference voice, and speaker description, but **<u>varying situation</u>**. 
+In this section, we demonstrate our model's capability to generate different speech styles given the same reference voice, and speaker description, but **<u>varying situation</u>**. 
 
 ### Demo 1
 **Reference Speech:**  
