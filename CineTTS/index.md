@@ -14,18 +14,23 @@ We present some examples of speech synthesized by CineTTS, along with the ground
 
 ---
 ## Varying Persona
-In this section, we demonstrate that our model can generate different speech styles given the same reference voice, and dialog history, but varying **<u>speaker characteristics</u>**. 
+In this section, we demonstrate that our model can generate different speech styles given the same reference voice, and dialog history, but **<u>varying speaker characteristics</u>**. 
+
+**Reference Speech:**  
+<audio controls src="wavs/diff_persona_1/ref_speech.wav"></audio>
+
+**Dialog:**  
 
 ---
 ## Varying Dialog
 In this section, we demonstrate that our model can generate different speech styles given the same reference voice, and speaker description, but **<u>varying situation</u>**. 
 
+### Demo 1
 **Reference Speech:**  
-<audio controls src="wavs/diff_situation/spk_1_ref_speech.wav"></audio>
+<audio controls src="wavs/diff_situation_1/ref_speech.wav"></audio>
 
 **Speaker Description:**  
 The speaker is a male adult introvert. The speaker's relationship with the dialog partner is close.
-
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
@@ -56,7 +61,7 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
         high pitch
       </td>
       <td>
-        <audio controls src="wavs/diff_situation/spk1_a.wav"></audio>
+        <audio controls src="wavs/diff_situation_1/a.wav"></audio>
       </td>
     </tr>
     <tr>
@@ -73,7 +78,7 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
         moderate pitch
       </td>
       <td>
-        <audio controls src="wavs/diff_situation/spk1_b.wav"></audio>
+        <audio controls src="wavs/diff_situation_1/b.wav"></audio>
       </td>
     </tr>
     <tr>
@@ -90,11 +95,69 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
         high pitch
       </td>
       <td>
-        <audio controls src="wavs/diff_situation/spk1_c.wav"></audio>
+        <audio controls src="wavs/diff_situation_1/c.wav"></audio>
       </td>
     </tr>
   </tbody>
 </table>
 
+### Demo 2
+**Reference Speech:**  
+<audio controls src="wavs/diff_situation_2/ref_speech.wav"></audio>
+
+**Speaker Description:**  
+The speaker is a male adult whose voice is usually in the low pitch range. The speaker's relationship with the dialog partner is close.
+
+<table style="width:100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:30%">
+    <col style="width:10%">
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th>Dialog</th>
+      <th>Predicted Style</th>
+      <th>Audio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        [SPK0]: In our garden where I grew up.<br>
+        [SPK0]: The view of the sea.<br>
+        [SPK0]: Promise me you'll come back for me.<br><br>
+        NEXT UTTERANCE:<br>
+        [SPK1]: I promise I'll come back for you.
+      </td>
+      <td>
+        monotone,<br>
+        slow speed,<br>
+        low pitch
+      </td>
+      <td>
+        <audio controls src="wavs/diff_situation_2/a.wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        [SPK0]: A lot less dead than they are now.<br>
+        [SPK1]: Oh, really? That's too bad.<br>
+        [SPK0]: Yeah, it's too bad for you. Because they were part of your little dream team of thugs, weren't they?<br><br>
+        NEXT UTTERANCE:<br>
+        [SPK1]: Oh, that's right. You got me. Past tense. They were. Yeah, it's really quite a sad story, actually.
+      </td>
+      <td>
+        slightly expressive,<br>
+        moderate speed,<br>
+        low pitch
+      </td>
+      <td>
+        <audio controls src="wavs/diff_situation_2/b.wav"></audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
