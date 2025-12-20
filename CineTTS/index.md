@@ -101,7 +101,7 @@ In this section, we demonstrate our model's capability to generate different spe
   <tbody>
     <tr>
       <td>
-        The speaker is a male <i>adult<i>. The speaker's relationship with the dialog partner is distant.
+        The speaker is a male <i>adult</i>. The speaker's relationship with the dialog partner is distant.
       </td>
       <td>
         monotone,<br>
