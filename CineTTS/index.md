@@ -26,16 +26,13 @@ In this section, we demonstrate that our model can generate different expression
 **Speaker Description:**  
 The speaker is a male adult introvert. The speaker's relationship with the dialog partner is close.
 
-| Dialog History | Next Utterance | Predicted Style | Audio |
-|--------|--------------|----------|---------|
-| 001 | <audio controls src="{{ site.baseurl }}/audio/001_gt.wav"></audio> | <audio controls src="{{ site.baseurl }}/audio/001_baseline.wav"></audio> | <audio controls src="{{ site.baseurl }}/audio/001_cinetts.wav"></audio> |
-| 002 | <audio controls src="{{ site.baseurl }}/audio/002_gt.wav"></audio> | <audio controls src="{{ site.baseurl }}/audio/002_baseline.wav"></audio> | <audio controls src="{{ site.baseurl }}/audio/002_cinetts.wav"></audio> |
 
 
 <table>
   <thead>
     <tr>
-      <th>Dialog</th>
+      <th>Dialog History</th>
+      <th>Next Utterance</th>
       <th>Predicted Style</th>
       <th>Audio</th>
     </tr>
@@ -44,18 +41,17 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
     <!-- Group 1 -->
     <tr>
       <td>
-        <div style="white-space: pre-line;">
-            <strong>DIALOG HISTORY:</strong><br>
-            [SPK0]: She's dead.<br>
-            [SPK1]: She's not dead.<br>
-            [SPK0]: She's dead, and I hit her, and I killed her, and she's dead.<br><br>
-
-            <strong>NEXT UTTERANCE:</strong><br>
-            [SPK1]: She's not dead. She's acting dead. This is just... Listen, Adam, this is just a scene.
-        </div>
+        [SPK0]: She's dead.<br>
+        [SPK1]: She's not dead.<br>
+        [SPK0]: She's dead, and I hit her, and I killed her, and she's dead.
+      </td>
+        [SPK1]: She's not dead. She's acting dead. This is just... Listen, Adam, this is just a scene.
+      <td>
       </td>
       <td>
-        The speaker will say this in expressive voice, in moderate speed and high pitch.
+        expressive voice<br>
+        moderate speed<br>
+        high pitch
       </td>
       <td>
         <audio controls src="wavs/diff_situation/spk1_a.wav"></audio>
@@ -63,18 +59,17 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
     </tr>
     <tr>
       <td>
-        <div style="white-space: pre-line;">
-            <strong>DIALOG HISTORY:</strong><br>
-            [SPK0]: You'll see.<br>
-            [SPK1]: How could they do that?<br>
-            [SPK0]: They can't. It's impossible, but they'll figure a way.<br><br>
-
-            <strong>NEXT UTTERANCE:</strong><br>
-            [SPK0]: I've been in this company for ten years, and I've seen things you wouldn't believe.
-        </div>
+        [SPK0]: You'll see.<br>
+        [SPK1]: How could they do that?<br>
+        [SPK0]: They can't. It's impossible, but they'll figure a way.
       </td>
       <td>
-        The speaker will say this in slightly expressive voice, in moderate speed and moderate pitch.
+        [SPK0]: I've been in this company for ten years, and I've seen things you wouldn't believe.
+      </td>
+      <td>
+        slightly expressive voice<br>
+        moderate speed<br>
+        moderate pitch
       </td>
       <td>
         <audio controls src="wavs/diff_situation/spk1_b.wav"></audio>
@@ -82,18 +77,17 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
     </tr>
     <tr>
       <td>
-        <div style="white-space: pre-line;">
-            <strong>DIALOG HISTORY:</strong><br>
-            [SPK0]: You froze the account.<br>
-            [SPK1]: I had to get your attention, Mark.<br>
-            [SPK0]: Do you realize that you jeopardized the entire company? Do you realize that your actions could have permanently destroyed everything I've been working on? We have been working on- Without money, the site can't function. Okay, let me tell you the difference between Facebook and everybody else.<br><br>
-
-            <strong>NEXT UTTERANCE:</strong><br>
-            [SPK0]: We don't crash ever. If the servers are down for even a day, our entire reputation is irreversibly destroyed.
-        </div>
+        [SPK0]: You froze the account.<br>
+        [SPK1]: I had to get your attention, Mark.<br>
+        [SPK0]: Do you realize that you jeopardized the entire company? Do you realize that your actions could have permanently destroyed everything I've been working on? We have been working on- Without money, the site can't function. Okay, let me tell you the difference between Facebook and everybody else.            
       </td>
       <td>
-        The speaker will say this in slightly expressive voice, in fast speed and high pitch.
+        [SPK0]: We don't crash ever. If the servers are down for even a day, our entire reputation is irreversibly destroyed.
+      </td>
+      <td>
+        slightly expressive voice<br>
+        fast speed<br>
+        high pitch
       </td>
       <td>
         <audio controls src="wavs/diff_situation/spk1_c.wav"></audio>
