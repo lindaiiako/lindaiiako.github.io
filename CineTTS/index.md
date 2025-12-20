@@ -20,10 +20,11 @@ In this section, we demonstrate that our model can generate different speech sty
 <audio controls src="wavs/diff_persona_1/ref_speech.wav"></audio>
 
 **Dialog History:**  
-[SPK0]: Anyway, I can see you're far more in need of responsible advice than I realised. Nobody does anything worth doing without a degree.
-[SPK1]: Nobody does anything worth doing with a degree. No woman, anyway.
-[SPK0]: So what I do isn't worth doing, or what Miss Stubbs does, or Mrs Wilson, or any of us here.
-**Next Utterance:***
+[SPK0]: Anyway, I can see you're far more in need of responsible advice than I realised. Nobody does anything worth doing without a degree.<br>
+[SPK1]: Nobody does anything worth doing with a degree. No woman, anyway.<br>
+[SPK0]: So what I do isn't worth doing, or what Miss Stubbs does, or Mrs Wilson, or any of us here.<br>
+
+**Next Utterance:**
 [SPK0]: Because none of us would be here without a degree, you do realise that, don't you? And yes, of course, studying is hard and boring.
 
 <table style="width:100%; table-layout: fixed;">
