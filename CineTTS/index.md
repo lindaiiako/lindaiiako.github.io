@@ -28,7 +28,14 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
 
 
 
-<table>
+<table style="width:100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width:30%">
+    <col style="width:30%">
+    <col style="width:20%">
+    <col style="width:20%">
+  </colgroup>
+  s
   <thead>
     <tr>
       <th>Dialog History</th>
@@ -38,15 +45,14 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
     </tr>
   </thead>
   <tbody>
-    <!-- Group 1 -->
     <tr>
       <td>
         [SPK0]: She's dead.<br>
         [SPK1]: She's not dead.<br>
         [SPK0]: She's dead, and I hit her, and I killed her, and she's dead.
       </td>
-        [SPK1]: She's not dead. She's acting dead. This is just... Listen, Adam, this is just a scene.
       <td>
+        [SPK1]: She's not dead. She's acting dead. This is just... Listen, Adam, this is just a scene.
       </td>
       <td>
         expressive voice<br>
@@ -91,38 +97,6 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
       </td>
       <td>
         <audio controls src="wavs/diff_situation/spk1_c.wav"></audio>
-      </td>
-    </tr>
-
-    <!-- Group 2 -->
-    <tr>
-      <td rowspan="3">
-        <audio controls src="wavs/diff_situation/ref_02.wav"></audio>
-      </td>
-      <td rowspan="3">
-        An energetic young female speaker with expressive prosody.
-      </td>
-      <td>
-        Dialog example 4 (same ref & speaker)
-      </td>
-      <td>
-        <audio controls src="wavs/diff_situation/out_02_1.wav"></audio>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Dialog example 5 (same ref & speaker)
-      </td>
-      <td>
-        <audio controls src="wavs/diff_situation/out_02_2.wav"></audio>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Dialog example 6 (same ref & speaker)
-      </td>
-      <td>
-        <audio controls src="wavs/diff_situation/out_02_3.wav"></audio>
       </td>
     </tr>
   </tbody>
