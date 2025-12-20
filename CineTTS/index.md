@@ -1,6 +1,6 @@
 ---
-title: CineTTS: Persona-Aware Conversational Text-to-Speech
-description: authors list here
+title: "CineTTS: Persona-Aware Conversational Text-to-Speech"
+description: "authors list here"
 ---
 ## Abstract
 Abstract here
