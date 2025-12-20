@@ -17,7 +17,7 @@ We present some examples of speech synthesized by CineTTS, along with the ground
 In this section, we demonstrate our model's capability to generate different speech styles given the same reference voice, and dialog history, but **<u>varying speaker characteristics</u>**. 
 
 ### Demo 1
-**Reference Speech:**  
+**Reference Speech (used for speaker timbre extraction):**  
 <audio controls src="wavs/diff_persona_1/ref_speech.wav"></audio>
 
 **Dialog History:**  
@@ -73,7 +73,7 @@ In this section, we demonstrate our model's capability to generate different spe
 </table>
 
 ### Demo 2
-**Reference Speech:**  
+**Reference Speech (used for speaker timbre extraction):**  
 <audio controls src="wavs/diff_persona_2/ref_speech.wav"></audio>
 
 **Dialog History:**  
@@ -133,7 +133,7 @@ In this section, we demonstrate our model's capability to generate different spe
 In this section, we demonstrate our model's capability to generate different speech styles given the same reference voice, and speaker description, but **<u>varying situation</u>**. 
 
 ### Demo 1
-**Reference Speech:**  
+**Reference Speech (used for speaker timbre extraction):**  
 <audio controls src="wavs/diff_situation_1/ref_speech.wav"></audio>
 
 **Speaker Description:**  
@@ -192,7 +192,7 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
 </table>
 
 ### Demo 2
-**Reference Speech:**  
+**Reference Speech (used for speaker timbre extraction):**  
 <audio controls src="wavs/diff_situation_2/ref_speech.wav"></audio>
 
 **Speaker Description:**  
