@@ -14,18 +14,17 @@ We present some examples of speech synthesized by CineTTS, along with the ground
 
 ---
 ## Varying Persona
-In this section, we demonstrate that our model can generate different expressions given the same reference speech, and dialog history, but varying speaker description. 
+In this section, we demonstrate that our model can generate different speech styles given the same reference voice, and dialog history, but varying speaker description. 
 
 ---
 ## Varying Dialog History
-In this section, we demonstrate that our model can generate different expressions given the same reference speech, and speaker description, but varying situation embodied through dialog history. 
+In this section, we demonstrate that our model can generate different speech styles given the same reference voice, and speaker description, but **<u>varying situation</u>**. 
 
 **Reference Speech:**  
 <audio controls src="wavs/diff_situation/spk_1_ref_speech.wav"></audio>
 
 **Speaker Description:**  
 The speaker is a male adult introvert. The speaker's relationship with the dialog partner is close.
-
 
 
 <table style="width:100%; table-layout: fixed;">
