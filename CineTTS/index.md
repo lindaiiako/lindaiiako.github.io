@@ -24,7 +24,7 @@ In this section, we demonstrate that our model can generate different speech sty
 [SPK1]: Nobody does anything worth doing with a degree. No woman, anyway.<br>
 [SPK0]: So what I do isn't worth doing, or what Miss Stubbs does, or Mrs Wilson, or any of us here.<br>
 
-**Next Utterance:**
+**Next Utterance:**<br>
 [SPK0]: Because none of us would be here without a degree, you do realise that, don't you? And yes, of course, studying is hard and boring.
 
 <table style="width:100%; table-layout: fixed;">
