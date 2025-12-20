@@ -8,13 +8,14 @@ Abstract here
 ---
 
 ## Audio Demo
-We present some examples of speech synthesized by CineTTS, along with the ground truth and outputs from baseline models used in the user study.
+We present examples of the CineTTS dataset along with the speech synthesized with our proposed model.
+We additionally include the correponding audio outputs from other models used in the user study.
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:30%">
+    <col style="width:40%">
     <col style="width:50%">
-    <col style="width:20%">
+    <col style="width:10%">
   </colgroup>
 
   <thead>
@@ -38,11 +39,131 @@ We present some examples of speech synthesized by CineTTS, along with the ground
         [SPK1]: First of all, you will never be me. And second of all, I forget your question.
       </td>
       <td>
-        MSenC: <audio controls src="wavs/samples/474_MSenC.wav"></audio><br><br>
-        StyleTTS2: <audio controls src="wavs/samples/474_StyleTTS2.wav"></audio><br><br>
-        IndexTTS2: <audio controls src="wavs/samples/474_IndexTTS2.wav"></audio><br><br>
-        CineTTS: <audio controls src="wavs/samples/474_CineTTS.wav"></audio><br><br>
-        Ground Truth: <audio controls src="wavs/samples/474_GT.wav"></audio>
+        <b>MSenC:</b> <audio controls src="wavs/samples/474_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls src="wavs/samples/474_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls src="wavs/samples/474_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS:</b> <audio controls src="wavs/samples/474_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls src="wavs/samples/474_GT.wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The speaker is a male adult extrovert. The speaker's relationship with the dialog partner is close.
+      </td>
+      <td>
+        DIALOG HISTORY:<br>
+        [SPK0]: We don't know that he's not a good guy.<br>
+        [SPK1]: We know he stole our idea. We know he lied to our faces for a month and a half.<br>
+        [SPK0]: No, he never lied to our faces.<br><br>
+        NEXT UTTERANCE:<br>
+        [SPK1]: Okay, he never saw our faces. Fine. He lied to our email accounts and he gave himself a forty-two-day head start because he knows what apparently you don't, which is that getting there first is everything.
+      </td>
+      <td>
+        <b>MSenC:</b> <audio controls src="wavs/samples/569_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls src="wavs/samples/569_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls src="wavs/samples/569_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS:</b> <audio controls src="wavs/samples/569_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls src="wavs/samples/569_GT.wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The speaker is a male child. The speaker's relationship with the dialog partner is close.
+      </td>
+      <td>
+        DIALOG HISTORY:<br>
+        [SPK0]: No.<br>
+        [SPK1]: Want milk?<br>
+        [SPK0]: No.<br><br>
+        NEXT UTTERANCE:<br>
+        [SPK1]: Should I fix you some sandwiches?
+      </td>
+      <td>
+        <b>MSenC:</b> <audio controls src="wavs/samples/620_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls src="wavs/samples/620_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls src="wavs/samples/620_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS:</b> <audio controls src="wavs/samples/620_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls src="wavs/samples/620_GT.wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The speaker is a female animation character. The speaker's relationship with the dialog partner is close.
+      </td>
+      <td>
+        DIALOG HISTORY:<br>
+        [SPK0]: They all did. Pretty soon everyone back home had dragons of their own.<br>
+        [SPK1]: If only it were possible.<br>
+        [SPK0]: No, really.<br><br>
+        NEXT UTTERANCE:<br>
+        [SPK1]: Believe me, I tried as well, but people are not capable of change, Hiccup.
+      </td>
+      <td>
+        <b>MSenC:</b> <audio controls src="wavs/samples/805_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls src="wavs/samples/805_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls src="wavs/samples/805_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS:</b> <audio controls src="wavs/samples/805_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls src="wavs/samples/805_GT.wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The speaker is a female adult. The speaker's relationship with the dialog partner is distant.
+      </td>
+      <td>
+        DIALOG HISTORY:<br>
+        [SPK0]: Valentine's Day. Bummer. Where'd you get your date, Elaine?<br>
+        [SPK1]: I received this information from an alien.<br>
+        [SPK1]: As I told my husband, it was in the Paramus Holiday Inn.<br><br>
+        NEXT UTTERANCE:<br>
+        [SPK1]: I was having a drink at the bar, alone, and this alien approached me.
+      </td>
+      <td>
+        <b>MSenC:</b> <audio controls src="wavs/samples/844_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls src="wavs/samples/844_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls src="wavs/samples/844_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS:</b> <audio controls src="wavs/samples/844_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls src="wavs/samples/844_GT.wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The speaker is a male child. The speaker's relationship with the dialog partner is close.
+      </td>
+      <td>
+        DIALOG HISTORY:<br>
+        [SPK0]: See? Go ahead, try it.<br>
+        [SPK1]: That's not the way I hold it.<br>
+        [SPK0]: Well, the way you hold it is wrong.<br><br>
+        NEXT UTTERANCE:<br>
+        [SPK1]: Why can't I just hold it my own way?
+      </td>
+      <td>
+        <b>MSenC:</b> <audio controls src="wavs/samples/918_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls src="wavs/samples/918_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls src="wavs/samples/918_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS:</b> <audio controls src="wavs/samples/918_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls src="wavs/samples/918_GT.wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The speaker is a female adult. The speaker's relationship with the dialog partner is close.
+      </td>
+      <td>
+        DIALOG HISTORY:<br>
+        [SPK0]: Sure. This girl is a college graduate.<br>
+        [SPK1]: They're the worst. College girls are one step from the street, I tell you.<br>
+        [SPK1]: My son Joseph's wife, you know, she type on a typewriter, one step from the street.<br><br>
+        NEXT UTTERANCE:<br>
+        [SPK0]: This is the first time that Marty bring home a girl.
+      </td>
+      <td>
+        <b>MSenC:</b> <audio controls src="wavs/samples/986_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls src="wavs/samples/986_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls src="wavs/samples/986_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS:</b> <audio controls src="wavs/samples/986_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls src="wavs/samples/986_GT.wav"></audio>
       </td>
     </tr>
   </tbody>
