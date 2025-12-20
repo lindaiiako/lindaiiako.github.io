@@ -20,24 +20,29 @@ In this section, we demonstrate that our model can generate different expression
 ## Varying Dialog History
 In this section, we demonstrate that our model can generate different expressions given the same reference speech, and speaker description, but varying situation embodied through dialog history. 
 
+**Reference Speech:**  
+<audio controls src="wavs/diff_situation/spk_1_ref_speech.wav"></audio>
+
+**Speaker Description:**  
+The speaker is a male adult introvert. The speaker's relationship with the dialog partner is close.
+
+| Dialog History | Next Utterance | Predicted Style | Audio |
+|--------|--------------|----------|---------|
+| 001 | <audio controls src="{{ site.baseurl }}/audio/001_gt.wav"></audio> | <audio controls src="{{ site.baseurl }}/audio/001_baseline.wav"></audio> | <audio controls src="{{ site.baseurl }}/audio/001_cinetts.wav"></audio> |
+| 002 | <audio controls src="{{ site.baseurl }}/audio/002_gt.wav"></audio> | <audio controls src="{{ site.baseurl }}/audio/002_baseline.wav"></audio> | <audio controls src="{{ site.baseurl }}/audio/002_cinetts.wav"></audio> |
+
+
 <table>
   <thead>
     <tr>
-      <th>Reference Speech</th>
-      <th>Speaker Description</th>
       <th>Dialog</th>
+      <th>Predicted Style</th>
       <th>Audio</th>
     </tr>
   </thead>
   <tbody>
     <!-- Group 1 -->
     <tr>
-      <td rowspan="3">s
-        <audio controls src="wavs/diff_situation/spk_1_ref_speech.wav"></audio>
-      </td>
-      <td rowspan="3">
-        The speaker is a male adult introvert. The speaker's relationship with the dialog partner is close.
-      </td>
       <td>
         <div style="white-space: pre-line;">
             <strong>DIALOG HISTORY:</strong><br>
@@ -48,6 +53,9 @@ In this section, we demonstrate that our model can generate different expression
             <strong>NEXT UTTERANCE:</strong><br>
             [SPK1]: She's not dead. She's acting dead. This is just... Listen, Adam, this is just a scene.
         </div>
+      </td>
+      <td>
+        The speaker will say this in expressive voice, in moderate speed and high pitch.
       </td>
       <td>
         <audio controls src="wavs/diff_situation/spk1_a.wav"></audio>
@@ -66,6 +74,9 @@ In this section, we demonstrate that our model can generate different expression
         </div>
       </td>
       <td>
+        The speaker will say this in slightly expressive voice, in moderate speed and moderate pitch.
+      </td>
+      <td>
         <audio controls src="wavs/diff_situation/spk1_b.wav"></audio>
       </td>
     </tr>
@@ -80,6 +91,9 @@ In this section, we demonstrate that our model can generate different expression
             <strong>NEXT UTTERANCE:</strong><br>
             [SPK0]: We don't crash ever. If the servers are down for even a day, our entire reputation is irreversibly destroyed.
         </div>
+      </td>
+      <td>
+        The speaker will say this in slightly expressive voice, in fast speed and high pitch.
       </td>
       <td>
         <audio controls src="wavs/diff_situation/spk1_c.wav"></audio>
