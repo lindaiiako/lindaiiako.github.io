@@ -14,10 +14,10 @@ We present some examples of speech synthesized by CineTTS, along with the ground
 
 ---
 ## Varying Persona
-In this section, we demonstrate that our model can generate different speech styles given the same reference voice, and dialog history, but varying speaker description. 
+In this section, we demonstrate that our model can generate different speech styles given the same reference voice, and dialog history, but varying **<u>speaker characteristics</u>**. 
 
 ---
-## Varying Dialog History
+## Varying Dialog
 In this section, we demonstrate that our model can generate different speech styles given the same reference voice, and speaker description, but **<u>varying situation</u>**. 
 
 **Reference Speech:**  
@@ -29,16 +29,14 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:40%">
+    <col style="width:60%">
     <col style="width:30%">
-    <col style="width:20%">
     <col style="width:10%">
   </colgroup>
 
   <thead>
     <tr>
-      <th>Dialog History</th>
-      <th>Next Utterance</th>
+      <th>Dialog</th>
       <th>Predicted Style</th>
       <th>Audio</th>
     </tr>
@@ -48,9 +46,8 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
       <td>
         [SPK0]: She's dead.<br>
         [SPK1]: She's not dead.<br>
-        [SPK0]: She's dead, and I hit her, and I killed her, and she's dead.
-      </td>
-      <td>
+        [SPK0]: She's dead, and I hit her, and I killed her, and she's dead.<br><br>
+        NEXT UTTERANCE:<br>
         [SPK1]: She's not dead. She's acting dead. This is just... Listen, Adam, this is just a scene.
       </td>
       <td>
@@ -66,9 +63,8 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
       <td>
         [SPK0]: You'll see.<br>
         [SPK1]: How could they do that?<br>
-        [SPK0]: They can't. It's impossible, but they'll figure a way.
-      </td>
-      <td>
+        [SPK0]: They can't. It's impossible, but they'll figure a way.<br><br>
+        NEXT UTTERANCE:<br>
         [SPK0]: I've been in this company for ten years, and I've seen things you wouldn't believe.
       </td>
       <td>
@@ -84,9 +80,8 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
       <td>
         [SPK0]: You froze the account.<br>
         [SPK1]: I had to get your attention, Mark.<br>
-        [SPK0]: Do you realize that you jeopardized the entire company? Do you realize that your actions could have permanently destroyed everything I've been working on? We have been working on- Without money, the site can't function. Okay, let me tell you the difference between Facebook and everybody else.            
-      </td>
-      <td>
+        [SPK0]: Do you realize that you jeopardized the entire company? Do you realize that your actions could have permanently destroyed everything I've been working on? We have been working on- Without money, the site can't function. Okay, let me tell you the difference between Facebook and everybody else.<br><br>
+        NEXT UTTERANCE:<br>
         [SPK0]: We don't crash ever. If the servers are down for even a day, our entire reputation is irreversibly destroyed.
       </td>
       <td>
