@@ -30,12 +30,12 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:30%">
+    <col style="width:40%">
     <col style="width:30%">
     <col style="width:20%">
-    <col style="width:20%">
+    <col style="width:10%">
   </colgroup>
-  s
+
   <thead>
     <tr>
       <th>Dialog History</th>
@@ -55,8 +55,8 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
         [SPK1]: She's not dead. She's acting dead. This is just... Listen, Adam, this is just a scene.
       </td>
       <td>
-        expressive voice<br>
-        moderate speed<br>
+        expressive,<br>
+        moderate speed,<br>
         high pitch
       </td>
       <td>
@@ -73,8 +73,8 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
         [SPK0]: I've been in this company for ten years, and I've seen things you wouldn't believe.
       </td>
       <td>
-        slightly expressive voice<br>
-        moderate speed<br>
+        slightly expressive,<br>
+        moderate speed,<br>
         moderate pitch
       </td>
       <td>
@@ -91,8 +91,8 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
         [SPK0]: We don't crash ever. If the servers are down for even a day, our entire reputation is irreversibly destroyed.
       </td>
       <td>
-        slightly expressive voice<br>
-        fast speed<br>
+        slightly expressive,<br>
+        fast speed,<br>
         high pitch
       </td>
       <td>
