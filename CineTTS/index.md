@@ -286,7 +286,7 @@ In this section, we demonstrate our model's outputs in scenarios where the refer
 
 ---
 ## ***Varying Dialog***
-In this section, we demonstrate our model's outputs in scenarios where the reference speech and speaker characteristics are the same, but the **<u>dialog context is different</u>**. 
+In this section, we demonstrate our model's outputs in scenarios where the reference speech and speaker characteristics are the same, but the **<u>dialog is different</u>**. 
 
 ### Demo 1
 **Reference Speech (used for speaker timbre extraction):**  
