@@ -47,8 +47,6 @@ This section presents audio samples from the CineSpeech dataset alongside speech
       </td>
     </tr>
 
-
-
     <tr>
       <th>Output Speech</th>
       <td>
@@ -102,54 +100,30 @@ This section presents audio samples from the CineSpeech dataset alongside speech
       </td>
     </tr>
 
-  </tbody>
-</table>
 
-
-<table style="width:100%; table-layout: fixed;">
-  <colgroup>
-    <col style="width:30%">
-    <col style="width:60%">
-    <col style="width:5%">
-    <col style="width:5%">
-  </colgroup>
-
-  <thead>
+    <!-- ================= Sample 2 ================= -->
     <tr>
-      <th>Speaker Description</th>
-      <th>Dialog</th>
+      <th colspan="2" style="text-align:center; background:#f2f2f2;">
+        Sample #2
+      </th>
+    </tr>
+
+    <tr>
       <th>Reference Speech</th>
-      <th>Output Speech</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
       <td>
-        The speaker is a male adult. The speaker's relationship with the dialog partner is distant.
-      </td>
-      <td>
-        DIALOG HISTORY:<br>
-        [SPK0]: Why do I have to be Haas?<br>
-        [SPK1]: Because you're good at what you do.<br>
-        [SPK2]: And why do I have to be you?<br><br>
-        NEXT UTTERANCE:<br>
-        [SPK1]: First of all, you will never be me. And second of all, I forget your question.
-      </td>
-      <td>
-        <audio controls style="width: 200px" src="wavs/samples/474_ref.wav"></audio>
-      </td>
-      <td>
-        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/474_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/474_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/474_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/474_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/474_GT.wav"></audio>
+        <audio controls src="wavs/samples/569_ref.wav"></audio>
       </td>
     </tr>
+
     <tr>
+      <th style="width:25%;">Speaker Description</th>
       <td>
         The speaker is a male adult extrovert. The speaker's relationship with the dialog partner is close.
       </td>
+    </tr>
+
+    <tr>
+      <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br>
         [SPK0]: We don't know that he's not a good guy.<br>
@@ -158,21 +132,85 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         NEXT UTTERANCE:<br>
         [SPK1]: Okay, he never saw our faces. Fine. He lied to our email accounts and he gave himself a forty-two-day head start because he knows what apparently you don't, which is that getting there first is everything.
       </td>
+    </tr>
+
+    <tr>
+      <th>Output Speech</th>
       <td>
-        <audio controls style="width: 200px" src="wavs/samples/569_ref.wav"></audio>
-      </td>
-      <td>
-        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/569_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/569_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/569_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/569_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/569_GT.wav"></audio>
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td style="border:none;">
+              <b>MSenC:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/569_MSenC.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>StyleTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/569_StyleTTS2.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>IndexTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/569_IndexTTS2.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>CineTTS (ours):</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/569_CineTTS.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>Ground Truth:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/569_GT.wav"></audio>
+            </td>
+          </tr>
+        </table>
+
       </td>
     </tr>
+
+
+    <!-- ================= Sample 3 ================= -->
     <tr>
+      <th colspan="2" style="text-align:center; background:#f2f2f2;">
+        Sample #3
+      </th>
+    </tr>
+
+    <tr>
+      <th>Reference Speech</th>
+      <td>
+        <audio controls src="wavs/samples/620_ref.wav"></audio>
+      </td>
+    </tr>
+
+    <tr>
+      <th style="width:25%;">Speaker Description</th>
       <td>
         The speaker is a male child. The speaker's relationship with the dialog partner is close.
       </td>
+    </tr>
+
+    <tr>
+      <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br>
         [SPK0]: No.<br>
@@ -181,21 +219,85 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         NEXT UTTERANCE:<br>
         [SPK1]: Should I fix you some sandwiches?
       </td>
+    </tr>
+
+    <tr>
+      <th>Output Speech</th>
       <td>
-        <audio controls style="width: 200px" src="wavs/samples/620_ref.wav"></audio>
-      </td>
-      <td>
-        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/620_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/620_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/620_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/620_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/620_GT.wav"></audio>
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td style="border:none;">
+              <b>MSenC:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/620_MSenC.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>StyleTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/620_StyleTTS2.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>IndexTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/620_IndexTTS2.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>CineTTS (ours):</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/620_CineTTS.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>Ground Truth:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/620_GT.wav"></audio>
+            </td>
+          </tr>
+        </table>
+
       </td>
     </tr>
+
+
+    <!-- ================= Sample 4 ================= -->
     <tr>
+      <th colspan="2" style="text-align:center; background:#f2f2f2;">
+        Sample #4
+      </th>
+    </tr>
+
+    <tr>
+      <th>Reference Speech</th>
+      <td>
+        <audio controls src="wavs/samples/844_ref.wav"></audio>
+      </td>
+    </tr>
+
+    <tr>
+      <th style="width:25%;">Speaker Description</th>
       <td>
         The speaker is a female adult. The speaker's relationship with the dialog partner is distant.
       </td>
+    </tr>
+
+    <tr>
+      <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br>
         [SPK0]: Valentine's Day. Bummer. Where'd you get your date, Elaine?<br>
@@ -204,21 +306,85 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         NEXT UTTERANCE:<br>
         [SPK1]: I was having a drink at the bar, alone, and this alien approached me.
       </td>
+    </tr>
+
+    <tr>
+      <th>Output Speech</th>
       <td>
-       <audio controls style="width: 200px" src="wavs/samples/844_ref.wav"></audio>
-      </td>
-      <td>
-        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/844_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/844_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/844_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/844_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/844_GT.wav"></audio>
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td style="border:none;">
+              <b>MSenC:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/844_MSenC.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>StyleTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/844_StyleTTS2.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>IndexTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/844_IndexTTS2.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>CineTTS (ours):</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/844_CineTTS.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>Ground Truth:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/844_GT.wav"></audio>
+            </td>
+          </tr>
+        </table>
+
       </td>
     </tr>
+
+
+    <!-- ================= Sample 5 ================= -->
     <tr>
+      <th colspan="2" style="text-align:center; background:#f2f2f2;">
+        Sample #5
+      </th>
+    </tr>
+
+    <tr>
+      <th>Reference Speech</th>
+      <td>
+        <audio controls src="wavs/samples/918_ref.wav"></audio>
+      </td>
+    </tr>
+
+    <tr>
+      <th style="width:25%;">Speaker Description</th>
       <td>
         The speaker is a male child. The speaker's relationship with the dialog partner is close.
       </td>
+    </tr>
+
+    <tr>
+      <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br>
         [SPK0]: See? Go ahead, try it.<br>
@@ -227,21 +393,85 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         NEXT UTTERANCE:<br>
         [SPK1]: Why can't I just hold it my own way?
       </td>
+    </tr>
+
+    <tr>
+      <th>Output Speech</th>
       <td>
-        <audio controls style="width: 200px" src="wavs/samples/918_ref.wav"></audio>
-      </td>
-      <td>
-        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/918_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/918_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/918_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/918_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/918_GT.wav"></audio>
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td style="border:none;">
+              <b>MSenC:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/918_MSenC.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>StyleTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/918_StyleTTS2.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>IndexTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/918_IndexTTS2.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>CineTTS (ours):</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/918_CineTTS.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>Ground Truth:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/918_GT.wav"></audio>
+            </td>
+          </tr>
+        </table>
+
       </td>
     </tr>
+
+
+    <!-- ================= Sample 6 ================= -->
     <tr>
+      <th colspan="2" style="text-align:center; background:#f2f2f2;">
+        Sample #6
+      </th>
+    </tr>
+
+    <tr>
+      <th>Reference Speech</th>
+      <td>
+        <audio controls src="wavs/samples/986_ref.wav"></audio>
+      </td>
+    </tr>
+
+    <tr>
+      <th style="width:25%;">Speaker Description</th>
       <td>
         The speaker is a female adult. The speaker's relationship with the dialog partner is close.
       </td>
+    </tr>
+
+    <tr>
+      <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br>
         [SPK0]: Sure. This girl is a college graduate.<br>
@@ -250,19 +480,63 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         NEXT UTTERANCE:<br>
         [SPK0]: This is the first time that Marty bring home a girl.
       </td>
+    </tr>
+
+    <tr>
+      <th>Output Speech</th>
       <td>
-        <audio controls style="width: 200px" src="wavs/samples/986_ref.wav"></audio>
-      </td>
-      <td>
-        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/986_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/986_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/986_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/986_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/986_GT.wav"></audio>
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td style="border:none;">
+              <b>MSenC:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/986_MSenC.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>StyleTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/986_StyleTTS2.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>IndexTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/986_IndexTTS2.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>CineTTS (ours):</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/986_CineTTS.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>Ground Truth:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/986_GT.wav"></audio>
+            </td>
+          </tr>
+        </table>
+
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 ## ***Persona-Aware***
