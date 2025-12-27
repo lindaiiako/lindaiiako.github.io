@@ -54,47 +54,47 @@ This section presents audio samples from the CineSpeech dataset alongside speech
       <td>
         <table style="border-collapse: collapse; border: none;">
           <tr>
-            <td style="width:140px; border:none; padding:2px 8px 2px 0;">
+            <td style="border:none;">
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls style="width:180px" src="wavs/samples/474_MSenC.wav"></audio>
+              <audio controls src="wavs/samples/474_MSenC.wav"></audio>
             </td>
           </tr>
 
           <tr>
-            <td style="border:none; padding:2px 8px 2px 0;">
+            <td style="border:none;">
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls style="width:180px" src="wavs/samples/474_StyleTTS2.wav"></audio>
+              <audio controls src="wavs/samples/474_StyleTTS2.wav"></audio>
             </td>
           </tr>
 
           <tr>
-            <td style="border:none; padding:2px 8px 2px 0;">
+            <td style="border:none;">
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls style="width:180px" src="wavs/samples/474_IndexTTS2.wav"></audio>
+              <audio controls src="wavs/samples/474_IndexTTS2.wav"></audio>
             </td>
           </tr>
 
           <tr>
-            <td style="border:none; padding:2px 8px 2px 0;">
+            <td style="border:none;">
               <b>CineTTS (ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls style="width:180px" src="wavs/samples/474_CineTTS.wav"></audio>
+              <audio controls src="wavs/samples/474_CineTTS.wav"></audio>
             </td>
           </tr>
 
           <tr>
-            <td style="border:none; padding:2px 8px 2px 0;">
+            <td style="border:none;">
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls style="width:180px" src="wavs/samples/474_GT.wav"></audio>
+              <audio controls src="wavs/samples/474_GT.wav"></audio>
             </td>
           </tr>
         </table>
