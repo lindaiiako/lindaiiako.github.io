@@ -40,14 +40,14 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         [SPK1]: First of all, you will never be me. And second of all, I forget your question.
       </td>
       <td>
-        <audio controls style="width: 100px" src="wavs/samples/474_ref.wav"></audio>
+        <audio controls style="width: 200px" src="wavs/samples/474_ref.wav"></audio>
       </td>
       <td>
-        <b>MSenC:</b> <audio controls src="wavs/samples/474_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls src="wavs/samples/474_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls src="wavs/samples/474_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls src="wavs/samples/474_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls src="wavs/samples/474_GT.wav"></audio>
+        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/474_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/474_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/474_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/474_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/474_GT.wav"></audio>
       </td>
     </tr>
     <tr>
@@ -63,14 +63,14 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         [SPK1]: Okay, he never saw our faces. Fine. He lied to our email accounts and he gave himself a forty-two-day head start because he knows what apparently you don't, which is that getting there first is everything.
       </td>
       <td>
-        <audio controls style="width: 100px" src="wavs/samples/569_ref.wav"></audio>
+        <audio controls style="width: 200px" src="wavs/samples/569_ref.wav"></audio>
       </td>
       <td>
-        <b>MSenC:</b> <audio controls src="wavs/samples/569_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls src="wavs/samples/569_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls src="wavs/samples/569_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls src="wavs/samples/569_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls src="wavs/samples/569_GT.wav"></audio>
+        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/569_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/569_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/569_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/569_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/569_GT.wav"></audio>
       </td>
     </tr>
     <tr>
@@ -86,14 +86,14 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         [SPK1]: Should I fix you some sandwiches?
       </td>
       <td>
-        <audio controls style="width: 100px" src="wavs/samples/620_ref.wav"></audio>
+        <audio controls style="width: 200px" src="wavs/samples/620_ref.wav"></audio>
       </td>
       <td>
-        <b>MSenC:</b> <audio controls src="wavs/samples/620_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls src="wavs/samples/620_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls src="wavs/samples/620_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls src="wavs/samples/620_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls src="wavs/samples/620_GT.wav"></audio>
+        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/620_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/620_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/620_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/620_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/620_GT.wav"></audio>
       </td>
     </tr>
     <tr>
@@ -109,14 +109,14 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         [SPK1]: Believe me, I tried as well, but people are not capable of change, Hiccup.
       </td>
       <td>
-        <audio controls style="width: 100px" src="wavs/samples/805_ref.wav"></audio>
+        <audio controls style="width: 200px" src="wavs/samples/805_ref.wav"></audio>
       </td>
       <td>
-        <b>MSenC:</b> <audio controls src="wavs/samples/805_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls src="wavs/samples/805_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls src="wavs/samples/805_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls src="wavs/samples/805_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls src="wavs/samples/805_GT.wav"></audio>
+        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/805_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/805_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/805_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/805_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/805_GT.wav"></audio>
       </td>
     </tr>
     <tr>
@@ -132,14 +132,14 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         [SPK1]: I was having a drink at the bar, alone, and this alien approached me.
       </td>
       <td>
-       <audio controls style="width: 100px" src="wavs/samples/844_ref.wav"></audio>
+       <audio controls style="width: 200px" src="wavs/samples/844_ref.wav"></audio>
       </td>
       <td>
-        <b>MSenC:</b> <audio controls src="wavs/samples/844_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls src="wavs/samples/844_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls src="wavs/samples/844_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls src="wavs/samples/844_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls src="wavs/samples/844_GT.wav"></audio>
+        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/844_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/844_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/844_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/844_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/844_GT.wav"></audio>
       </td>
     </tr>
     <tr>
@@ -155,14 +155,14 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         [SPK1]: Why can't I just hold it my own way?
       </td>
       <td>
-        <audio controls style="width: 100px" src="wavs/samples/918_ref.wav"></audio>
+        <audio controls style="width: 200px" src="wavs/samples/918_ref.wav"></audio>
       </td>
       <td>
-        <b>MSenC:</b> <audio controls src="wavs/samples/918_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls src="wavs/samples/918_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls src="wavs/samples/918_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls src="wavs/samples/918_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls src="wavs/samples/918_GT.wav"></audio>
+        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/918_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/918_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/918_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/918_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/918_GT.wav"></audio>
       </td>
     </tr>
     <tr>
@@ -178,14 +178,14 @@ This section presents audio samples from the CineSpeech dataset alongside speech
         [SPK0]: This is the first time that Marty bring home a girl.
       </td>
       <td>
-        <audio controls style="width: 100px" src="wavs/samples/986_ref.wav"></audio>
+        <audio controls style="width: 200px" src="wavs/samples/986_ref.wav"></audio>
       </td>
       <td>
-        <b>MSenC:</b> <audio controls src="wavs/samples/986_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls src="wavs/samples/986_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls src="wavs/samples/986_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls src="wavs/samples/986_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls src="wavs/samples/986_GT.wav"></audio>
+        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/986_MSenC.wav"></audio><br><br>
+        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/986_StyleTTS2.wav"></audio><br><br>
+        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/986_IndexTTS2.wav"></audio><br><br>
+        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/986_CineTTS.wav"></audio><br><br>
+        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/986_GT.wav"></audio>
       </td>
     </tr>
   </tbody>
