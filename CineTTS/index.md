@@ -542,7 +542,7 @@ This section presents audio samples from the CineSpeech dataset alongside speech
 ## ***Persona-Aware***
 In this section, we showcase our model's outputs in scenarios where the reference speech, dialog history and target utterance are the same, but **<u>speaker characteristics are different</u>**. 
 
-### Demo 1
+### Sample #1
 **Reference Speech (used for speaker timbre extraction):**  
 <audio controls src="wavs/diff_persona_1/ref_speech.wav"></audio>
 
@@ -598,7 +598,7 @@ In this section, we showcase our model's outputs in scenarios where the referenc
   </tbody>
 </table>
 
-### Demo 2
+### Sample #2
 **Reference Speech (used for speaker timbre extraction):**  
 <audio controls src="wavs/diff_persona_2/ref_speech.wav"></audio>
 
@@ -658,7 +658,7 @@ In this section, we showcase our model's outputs in scenarios where the referenc
 ## ***Conversation-Aware***
 In this section, we present our model’s outputs in scenarios where the reference speech and speaker characteristics are the same, but the **<u>dialog is different</u>**.
 
-### Demo 1
+### Sample #1
 **Reference Speech (used for speaker timbre extraction):**  
 <audio controls src="wavs/diff_situation_1/ref_speech.wav"></audio>
 
@@ -717,7 +717,7 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
   </tbody>
 </table>
 
-### Demo 2
+### Sample #2
 **Reference Speech (used for speaker timbre extraction):**  
 <audio controls src="wavs/diff_situation_2/ref_speech.wav"></audio>
 
