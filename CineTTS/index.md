@@ -98,29 +98,6 @@ This section presents audio samples from the CineSpeech dataset alongside speech
     </tr>
     <tr>
       <td>
-        The speaker is a female animation character. The speaker's relationship with the dialog partner is close.
-      </td>
-      <td>
-        DIALOG HISTORY:<br>
-        [SPK0]: They all did. Pretty soon everyone back home had dragons of their own.<br>
-        [SPK1]: If only it were possible.<br>
-        [SPK0]: No, really.<br><br>
-        NEXT UTTERANCE:<br>
-        [SPK1]: Believe me, I tried as well, but people are not capable of change, Hiccup.
-      </td>
-      <td>
-        <audio controls style="width: 200px" src="wavs/samples/805_ref.wav"></audio>
-      </td>
-      <td>
-        <b>MSenC:</b> <audio controls style="width: 200px" src="wavs/samples/805_MSenC.wav"></audio><br><br>
-        <b>StyleTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/805_StyleTTS2.wav"></audio><br><br>
-        <b>IndexTTS2:</b> <audio controls style="width: 200px" src="wavs/samples/805_IndexTTS2.wav"></audio><br><br>
-        <b>CineTTS (ours):</b> <audio controls style="width: 200px" src="wavs/samples/805_CineTTS.wav"></audio><br><br>
-        <b>Ground Truth:</b> <audio controls style="width: 200px" src="wavs/samples/805_GT.wav"></audio>
-      </td>
-    </tr>
-    <tr>
-      <td>
         The speaker is a female adult. The speaker's relationship with the dialog partner is distant.
       </td>
       <td>
