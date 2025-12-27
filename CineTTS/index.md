@@ -12,8 +12,8 @@ This section presents audio samples from the CineSpeech dataset alongside speech
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:40%">
-    <col style="width:50%">
+    <col style="width:30%">
+    <col style="width:60%">
     <col style="width:5%">
     <col style="width:5%">
   </colgroup>
@@ -23,7 +23,7 @@ This section presents audio samples from the CineSpeech dataset alongside speech
       <th>Speaker Description</th>
       <th>Dialog</th>
       <th>Reference Speech</th>
-      <th>Output</th>
+      <th>Output Speech</th>
     </tr>
   </thead>
   <tbody>
@@ -195,7 +195,7 @@ In this section, we showcase our model's outputs in scenarios where the referenc
     <tr>
       <th>Speaker Description</th>
       <th>Predicted Style</th>
-      <th>Audio</th>
+      <th>Output Speech</th>
     </tr>
   </thead>
   <tbody>
@@ -251,7 +251,7 @@ In this section, we showcase our model's outputs in scenarios where the referenc
     <tr>
       <th>Speaker Description</th>
       <th>Predicted Style</th>
-      <th>Audio</th>
+      <th>Output Speech</th>
     </tr>
   </thead>
   <tbody>
@@ -306,7 +306,7 @@ The speaker is a male adult introvert. The speaker's relationship with the dialo
     <tr>
       <th>Dialog</th>
       <th>Predicted Style</th>
-      <th>Audio</th>
+      <th>Output Speech</th>
     </tr>
   </thead>
   <tbody>
@@ -365,7 +365,7 @@ The speaker is a male adult whose voice is usually in the low pitch range. The s
     <tr>
       <th>Dialog</th>
       <th>Predicted Style</th>
-      <th>Audio</th>
+      <th>Output Speech</th>
     </tr>
   </thead>
   <tbody>
