@@ -23,14 +23,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/474_ref.wav"></audio>
+        <audio controls src="wavs/samples/1_ref_speech.wav"></audio>
       </td>
     </tr>
 
     <tr>
       <th style="width:25%;">Speaker Persona</th>
       <td>
-        The speaker is a male adult. The speaker's relationship with the dialog partner is distant.
+        The speaker is a male adult.<br/>
+        Job type: Scientists, Medical Experts and Scholars.<br/>
+        The speaker is speaking to: psychiatric patient.
       </td>
     </tr>
 
@@ -38,11 +40,9 @@ This section presents audio samples from the PACESpeech dataset alongside speech
       <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br/>
-        [SPK0]: Why do I have to be Haas?<br/>
-        [SPK1]: Because you're good at what you do.<br/>
-        [SPK2]: And why do I have to be you?<br/><br/>
+        [SPK0]: Now you can live with that, can't you? Feelings are scary. Sometimes they're painful. And if you can't feel pain, then you're not gonna feel anything else either. You know what I'm saying?<br/><br/>
         NEXT UTTERANCE:<br/>
-        [SPK1]: First of all, you will never be me. And second of all, I forget your question.
+        [SPK0]: You're here and you're alive. And don't tell me you don't feel that.
       </td>
     </tr>
 
@@ -55,7 +55,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/474_MSenC.wav"></audio>
+              <audio controls src="wavs/samples/1_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -64,7 +64,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/474_StyleTTS2.wav"></audio>
+              <audio controls src="wavs/samples/1_stts.wav"></audio>
             </td>
           </tr>
 
@@ -73,16 +73,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/474_IndexTTS2.wav"></audio>
+              <audio controls src="wavs/samples/1_indextts.wav"></audio>
             </td>
           </tr>
 
           <tr>
             <td style="border:none;">
-              <b>PACESpeech (Ours):</b>
+              <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/474_Ours.wav"></audio>
+              <audio controls src="wavs/samples/1_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -91,7 +91,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/474_GT.wav"></audio>
+              <audio controls src="wavs/samples/1_gt.wav"></audio>
             </td>
           </tr>
         </table>
@@ -110,14 +110,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/569_ref.wav"></audio>
+        <audio controls src="wavs/samples/2_ref_speech.wav"></audio>
       </td>
     </tr>
 
     <tr>
       <th style="width:25%;">Speaker Persona</th>
       <td>
-        The speaker is a male adult extrovert. The speaker's relationship with the dialog partner is close.
+        The speaker is a female adult.<br/>
+        Job type: Others<br/>
+        The speaker is speaking to: love interest.
       </td>
     </tr>
 
@@ -125,11 +127,12 @@ This section presents audio samples from the PACESpeech dataset alongside speech
       <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br/>
-        [SPK0]: We don't know that he's not a good guy.<br/>
-        [SPK1]: We know he stole our idea. We know he lied to our faces for a month and a half.<br/>
-        [SPK0]: No, he never lied to our faces.<br/><br/>
+        [SPK0]: You don't have to apologize to me. I'm the luckiest person you're gonna find today.<br/>
+        [SPK1]: No, I'm sorry. I'm engaged to be married.<br/>
+        [SPK0]: Oh.<br/>
+        [SPK1]: But you're wrong. I do know you. At least by reputation. Edward Bloom from Ashton.<br/><br/>
         NEXT UTTERANCE:<br/>
-        [SPK1]: Okay, he never saw our faces. Fine. He lied to our email accounts and he gave himself a forty-two-day head start because he knows what apparently you don't, which is that getting there first is everything.
+        [SPK1]: See, I'm actually engaged to a boy from Ashton, Don Price.
       </td>
     </tr>
 
@@ -142,7 +145,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/569_MSenC.wav"></audio>
+              <audio controls src="wavs/samples/2_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -151,7 +154,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/569_StyleTTS2.wav"></audio>
+              <audio controls src="wavs/samples/2_stts.wav"></audio>
             </td>
           </tr>
 
@@ -160,16 +163,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/569_IndexTTS2.wav"></audio>
+              <audio controls src="wavs/samples/2_indextts.wav"></audio>
             </td>
           </tr>
 
           <tr>
             <td style="border:none;">
-              <b>PACESpeech (Ours):</b>
+              <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/569_Ours.wav"></audio>
+              <audio controls src="wavs/samples/2_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -178,7 +181,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/569_GT.wav"></audio>
+              <audio controls src="wavs/samples/2_gt.wav"></audio>
             </td>
           </tr>
         </table>
@@ -197,14 +200,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/620_ref.wav"></audio>
+        <audio controls src="wavs/samples/3_ref_speech.wav"></audio>
       </td>
     </tr>
 
     <tr>
       <th style="width:25%;">Speaker Persona</th>
       <td>
-        The speaker is a male child. The speaker's relationship with the dialog partner is close.
+        The speaker is a male adult extrovert.<br/>
+        Job type: Others<br/>
+        The speaker is speaking to: opposing counsel.
       </td>
     </tr>
 
@@ -212,11 +217,12 @@ This section presents audio samples from the PACESpeech dataset alongside speech
       <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br/>
-        [SPK0]: No.<br/>
-        [SPK1]: Want milk?<br/>
-        [SPK0]: No.<br/><br/>
+        [SPK0]: For the file?<br/>
+        [SPK1]: Yeah.<br/>
+        [SPK0]: Of course you can have a copy of the transfer order for the file, Danny. I'm here to help in any way I can.<br/>
+        [SPK1]: Thank you.<br/><br/>
         NEXT UTTERANCE:<br/>
-        [SPK1]: Should I fix you some sandwiches?
+        [SPK0]: You believe that, don't you, Danny, that I'm here to help you in any way I can?
       </td>
     </tr>
 
@@ -229,7 +235,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/620_MSenC.wav"></audio>
+              <audio controls src="wavs/samples/3_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -238,7 +244,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/620_StyleTTS2.wav"></audio>
+              <audio controls src="wavs/samples/3_stts.wav"></audio>
             </td>
           </tr>
 
@@ -247,16 +253,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/620_IndexTTS2.wav"></audio>
+              <audio controls src="wavs/samples/3_indextts.wav"></audio>
             </td>
           </tr>
 
           <tr>
             <td style="border:none;">
-              <b>PACESpeech (Ours):</b>
+              <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/620_Ours.wav"></audio>
+              <audio controls src="wavs/samples/3_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -265,7 +271,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/620_GT.wav"></audio>
+              <audio controls src="wavs/samples/3_gt.wav"></audio>
             </td>
           </tr>
         </table>
@@ -284,14 +290,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/844_ref.wav"></audio>
+        <audio controls src="wavs/samples/4_ref_speech.wav"></audio>
       </td>
     </tr>
 
     <tr>
       <th style="width:25%;">Speaker Persona</th>
       <td>
-        The speaker is a female adult. The speaker's relationship with the dialog partner is distant.
+        The speaker is a male adult animation character.<br/>
+        Job type: Students.<br/>
+        The speaker is speaking to: friend.
       </td>
     </tr>
 
@@ -299,11 +307,12 @@ This section presents audio samples from the PACESpeech dataset alongside speech
       <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br/>
-        [SPK0]: Valentine's Day. Bummer. Where'd you get your date, Elaine?<br/>
-        [SPK1]: I received this information from an alien.<br/>
-        [SPK1]: As I told my husband, it was in the Paramus Holiday Inn.<br/><br/>
+        [SPK5]: That sounds great, Kathy. You know, you're gonna love my boyfriend. He's like a total chick flick nut.<br/>
+        [SPK6]: Hey, Neil.<br/>
+        [SPK7]: You did it! You stopped the witch's curse and made the zombies go away and saved pretty much everything!<br/>
+        [SPK6]: I guess. I just wanted to say thanks. You stood by me. All the time.<br/><br/>
         NEXT UTTERANCE:<br/>
-        [SPK1]: I was having a drink at the bar, alone, and this alien approached me.
+        [SPK7]: Yeah, of course! Don't get weird or anything.
       </td>
     </tr>
 
@@ -316,7 +325,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/844_MSenC.wav"></audio>
+              <audio controls src="wavs/samples/4_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -325,7 +334,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/844_StyleTTS2.wav"></audio>
+              <audio controls src="wavs/samples/4_stts.wav"></audio>
             </td>
           </tr>
 
@@ -334,16 +343,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/844_IndexTTS2.wav"></audio>
+              <audio controls src="wavs/samples/4_indextts.wav"></audio>
             </td>
           </tr>
 
           <tr>
             <td style="border:none;">
-              <b>PACESpeech (Ours):</b>
+              <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/844_Ours.wav"></audio>
+              <audio controls src="wavs/samples/4_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -352,7 +361,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/844_GT.wav"></audio>
+              <audio controls src="wavs/samples/4_gt.wav"></audio>
             </td>
           </tr>
         </table>
@@ -371,14 +380,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/918_ref.wav"></audio>
+        <audio controls src="wavs/samples/5_ref_speech.wav"></audio>
       </td>
     </tr>
 
     <tr>
       <th style="width:25%;">Speaker Persona</th>
       <td>
-        The speaker is a male child. The speaker's relationship with the dialog partner is close.
+        The speaker is a female adult.<br/>
+        Job type: Others<br/>
+        The speaker is speaking to: sister.
       </td>
     </tr>
 
@@ -386,11 +397,12 @@ This section presents audio samples from the PACESpeech dataset alongside speech
       <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br/>
-        [SPK0]: See? Go ahead, try it.<br/>
-        [SPK1]: That's not the way I hold it.<br/>
-        [SPK0]: Well, the way you hold it is wrong.<br/><br/>
+        [SPK0]: Well, which Marty you think would be here in this house with a girl?<br/>
+        [SPK1]: Were the lights on?<br/>
+        [SPK0]: Sure. This girl is a college graduate.<br/>
+        [SPK1]: They're the worst. College girls are one step from the street, I tell you. My son Joseph's wife, you know, she type on a typewriter, one step from the street.<br/><br/>
         NEXT UTTERANCE:<br/>
-        [SPK1]: Why can't I just hold it my own way?
+        [SPK0]: This is the first time that Marty bring home a girl.
       </td>
     </tr>
 
@@ -403,7 +415,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/918_MSenC.wav"></audio>
+              <audio controls src="wavs/samples/5_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -412,7 +424,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/918_StyleTTS2.wav"></audio>
+              <audio controls src="wavs/samples/5_stts.wav"></audio>
             </td>
           </tr>
 
@@ -421,16 +433,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/918_IndexTTS2.wav"></audio>
+              <audio controls src="wavs/samples/5_indextts.wav"></audio>
             </td>
           </tr>
 
           <tr>
             <td style="border:none;">
-              <b>PACESpeech (Ours):</b>
+              <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/918_Ours.wav"></audio>
+              <audio controls src="wavs/samples/5_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -439,7 +451,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/918_GT.wav"></audio>
+              <audio controls src="wavs/samples/5_gt.wav"></audio>
             </td>
           </tr>
         </table>
@@ -458,14 +470,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/986_ref.wav"></audio>
+        <audio controls src="wavs/samples/6_ref_speech.wav"></audio>
       </td>
     </tr>
 
     <tr>
       <th style="width:25%;">Speaker Persona</th>
       <td>
-        The speaker is a female adult. The speaker's relationship with the dialog partner is close.
+        The speaker is a male adult introvert.<br/>
+        Job type: Others<br/>
+        The speaker is speaking to: love interest.
       </td>
     </tr>
 
@@ -473,11 +487,10 @@ This section presents audio samples from the PACESpeech dataset alongside speech
       <th>Dialog</th>
       <td>
         DIALOG HISTORY:<br/>
-        [SPK0]: Sure. This girl is a college graduate.<br/>
-        [SPK1]: They're the worst. College girls are one step from the street, I tell you.<br/>
-        [SPK1]: My son Joseph's wife, you know, she type on a typewriter, one step from the street.<br/><br/>
+        [SPK1]: I just feel like there are so many things that I could be doing and probably want to be doing that I'm just not.<br/>
+        [SPK0]: Why aren't you?<br/><br/>
         NEXT UTTERANCE:<br/>
-        [SPK0]: This is the first time that Marty bring home a girl.
+        [SPK1]: I mean, I guess it's just being afraid of what people would think, you know, judgment.
       </td>
     </tr>
 
@@ -490,7 +503,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/986_MSenC.wav"></audio>
+              <audio controls src="wavs/samples/6_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -499,7 +512,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/986_StyleTTS2.wav"></audio>
+              <audio controls src="wavs/samples/6_stts.wav"></audio>
             </td>
           </tr>
 
@@ -508,16 +521,16 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/986_IndexTTS2.wav"></audio>
+              <audio controls src="wavs/samples/6_indextts.wav"></audio>
             </td>
           </tr>
 
           <tr>
             <td style="border:none;">
-              <b>PACESpeech (Ours):</b>
+              <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/986_Ours.wav"></audio>
+              <audio controls src="wavs/samples/6_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -526,11 +539,186 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/986_GT.wav"></audio>
+              <audio controls src="wavs/samples/6_gt.wav"></audio>
+            </td>
+          </tr>          
+        </table>
+      </td>
+    </tr>
+
+    
+    <!-- ================= Sample 7 ================= -->
+    <tr>
+      <th colspan="2" style="text-align:center; background:#f2f2f2;">
+        Sample #7
+      </th>
+    </tr>
+
+    <tr>
+      <th>Reference Speech</th>
+      <td>
+        <audio controls src="wavs/samples/7_ref_speech.wav"></audio>
+      </td>
+    </tr>
+
+    <tr>
+      <th style="width:25%;">Speaker Persona</th>
+      <td>
+        The speaker is a female adult.<br/>
+        Job type: Others<br/>
+        The speaker is speaking to: prospective employer.
+      </td>
+    </tr>
+
+    <tr>
+      <th>Dialog</th>
+      <td>
+        DIALOG HISTORY:<br/>
+        [SPK0]: That wasn't a question.<br/>
+        [SPK1]: Um... I was editor-in-chief of the Daily Northwestern. I also won a national competition for a college journalist with my series on the janitor's union, which exposed the<br/>
+        [SPKUnknown]: exploitation of... Yeah, yeah, okay.<br/>
+        [SPK1]: You're right. I don't fit in here.<br/><br/>
+        NEXT UTTERANCE:<br/>
+        [SPK1]: I am not skinny or glamorous, and I don't know that much about fashion. But I'm smart. I learn fast, and I will work very hard.
+      </td>
+    </tr>
+
+    <tr>
+      <th>Output Speech</th>
+      <td>
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td style="border:none;">
+              <b>MSenC:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/7_msenc.wav"></audio>
             </td>
           </tr>
-        </table>
 
+          <tr>
+            <td style="border:none;">
+              <b>StyleTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/7_stts.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>IndexTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/7_indextts.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>PACE-TTS (Ours):</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/7_pacetts.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>Ground Truth:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/7_gt.wav"></audio>
+            </td>
+          </tr>          
+        </table>
+      </td>
+    </tr>
+
+
+    <!-- ================= Sample 8 ================= -->
+    <tr>
+      <th colspan="2" style="text-align:center; background:#f2f2f2;">
+        Sample #8
+      </th>
+    </tr>
+
+    <tr>
+      <th>Reference Speech</th>
+      <td>
+        <audio controls src="wavs/samples/8_ref_speech.wav"></audio>
+      </td>
+    </tr>
+
+    <tr>
+      <th style="width:25%;">Speaker Persona</th>
+      <td>
+        The speaker is a male adult.<br/>
+        Job type: Scientists, Medical Experts and Scholars.<br/>
+        The speaker is speaking to: father.
+      </td>
+    </tr>
+
+    <tr>
+      <th>Dialog</th>
+      <td>
+        DIALOG HISTORY:<br/>
+        [SPK0]: It's okay. Just because you have a bad dad doesn't mean that you're gonna be a bad dad. You will not ridicule. You will not compete. I will not compete!<br/>
+        [SPK1]: Why are you talking to yourself again?<br/><br/>
+        NEXT UTTERANCE:<br/>
+        [SPK0]: I need some alone time, Dad! Need some alone time! I will not compete!
+      </td>
+    </tr>
+
+    <tr>
+      <th>Output Speech</th>
+      <td>
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td style="border:none;">
+              <b>MSenC:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/8_msenc.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>StyleTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/8_stts.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>IndexTTS2:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/8_indextts.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>PACE-TTS (Ours):</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/8_pacetts.wav"></audio>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="border:none;">
+              <b>Ground Truth:</b>
+            </td>
+            <td style="border:none;">
+              <audio controls src="wavs/samples/8_gt.wav"></audio>
+            </td>
+          </tr>          
+        </table>
       </td>
     </tr>
   </tbody>
