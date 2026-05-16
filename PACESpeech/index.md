@@ -1,5 +1,5 @@
 ---
-title: "Persona-Aware Contextual Expressive Speech Dataset"
+title: "Persona-Aware Contextual Expressive TTS"
 ---
 ## ***Abstract***
 Despite recent advances in expressive and conversational Text-to-Speech (TTS), existing systems remain limited in contextual awareness. Expressive TTS models typically rely on explicit style inputs or reference speech, while conversational TTS systems incorporate dialogue history but support limited interaction types and emotional expression. Moreover, neither paradigm models persistent speaker attributes that influence speech expression across contexts. To bridge the gap between expressive and conversational TTS, we introduce persona-aware contextual expressive TTS (PACE-TTS), a new task setting that jointly conditions speech synthesis on speaker persona and dialogue context. To support this task, we present PACESpeech, a multi-speaker dialogue dataset annotated with persona attributes, comprising of 11,829 diverse utterances from 1,068 speakers and over 10 hours of speech. We further propose a baseline framework that combines an LLM-based speech style predictor with a prompt-based TTS model for contextually expressive speech generation, achieving consistent improvements over strong baselines in both objective and subjective evaluations.
