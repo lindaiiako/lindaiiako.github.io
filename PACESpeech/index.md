@@ -23,7 +23,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/1_ref_speech.wav"></audio>
+        <audio controls src="wavs/baseline/1_ref_speech.wav"></audio>
       </td>
     </tr>
 
@@ -55,7 +55,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/1_msenc.wav"></audio>
+              <audio controls src="wavs/baseline/1_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -64,7 +64,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/1_stts.wav"></audio>
+              <audio controls src="wavs/baseline/1_stts.wav"></audio>
             </td>
           </tr>
 
@@ -73,7 +73,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/1_indextts.wav"></audio>
+              <audio controls src="wavs/baseline/1_indextts.wav"></audio>
             </td>
           </tr>
 
@@ -82,7 +82,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/1_pacetts.wav"></audio>
+              <audio controls src="wavs/baseline/1_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -91,7 +91,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/1_gt.wav"></audio>
+              <audio controls src="wavs/baseline/1_gt.wav"></audio>
             </td>
           </tr>
         </table>
@@ -110,7 +110,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/2_ref_speech.wav"></audio>
+        <audio controls src="wavs/baseline/2_ref_speech.wav"></audio>
       </td>
     </tr>
 
@@ -145,7 +145,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/2_msenc.wav"></audio>
+              <audio controls src="wavs/baseline/2_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -154,7 +154,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/2_stts.wav"></audio>
+              <audio controls src="wavs/baseline/2_stts.wav"></audio>
             </td>
           </tr>
 
@@ -163,7 +163,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/2_indextts.wav"></audio>
+              <audio controls src="wavs/baseline/2_indextts.wav"></audio>
             </td>
           </tr>
 
@@ -172,7 +172,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/2_pacetts.wav"></audio>
+              <audio controls src="wavs/baseline/2_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -181,7 +181,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/2_gt.wav"></audio>
+              <audio controls src="wavs/baseline/2_gt.wav"></audio>
             </td>
           </tr>
         </table>
@@ -200,7 +200,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/3_ref_speech.wav"></audio>
+        <audio controls src="wavs/baseline/3_ref_speech.wav"></audio>
       </td>
     </tr>
 
@@ -235,7 +235,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/3_msenc.wav"></audio>
+              <audio controls src="wavs/baseline/3_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -244,7 +244,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/3_stts.wav"></audio>
+              <audio controls src="wavs/baseline/3_stts.wav"></audio>
             </td>
           </tr>
 
@@ -253,7 +253,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/3_indextts.wav"></audio>
+              <audio controls src="wavs/baseline/3_indextts.wav"></audio>
             </td>
           </tr>
 
@@ -262,7 +262,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/3_pacetts.wav"></audio>
+              <audio controls src="wavs/baseline/3_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -271,7 +271,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/3_gt.wav"></audio>
+              <audio controls src="wavs/baseline/3_gt.wav"></audio>
             </td>
           </tr>
         </table>
@@ -290,7 +290,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/4_ref_speech.wav"></audio>
+        <audio controls src="wavs/baseline/4_ref_speech.wav"></audio>
       </td>
     </tr>
 
@@ -325,7 +325,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/4_msenc.wav"></audio>
+              <audio controls src="wavs/baseline/4_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -334,7 +334,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/4_stts.wav"></audio>
+              <audio controls src="wavs/baseline/4_stts.wav"></audio>
             </td>
           </tr>
 
@@ -343,7 +343,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/4_indextts.wav"></audio>
+              <audio controls src="wavs/baseline/4_indextts.wav"></audio>
             </td>
           </tr>
 
@@ -352,7 +352,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/4_pacetts.wav"></audio>
+              <audio controls src="wavs/baseline/4_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -361,7 +361,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/4_gt.wav"></audio>
+              <audio controls src="wavs/baseline/4_gt.wav"></audio>
             </td>
           </tr>
         </table>
@@ -380,7 +380,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/5_ref_speech.wav"></audio>
+        <audio controls src="wavs/baseline/5_ref_speech.wav"></audio>
       </td>
     </tr>
 
@@ -415,7 +415,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/5_msenc.wav"></audio>
+              <audio controls src="wavs/baseline/5_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -424,7 +424,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/5_stts.wav"></audio>
+              <audio controls src="wavs/baseline/5_stts.wav"></audio>
             </td>
           </tr>
 
@@ -433,7 +433,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/5_indextts.wav"></audio>
+              <audio controls src="wavs/baseline/5_indextts.wav"></audio>
             </td>
           </tr>
 
@@ -442,7 +442,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/5_pacetts.wav"></audio>
+              <audio controls src="wavs/baseline/5_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -451,7 +451,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/5_gt.wav"></audio>
+              <audio controls src="wavs/baseline/5_gt.wav"></audio>
             </td>
           </tr>
         </table>
@@ -470,7 +470,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/6_ref_speech.wav"></audio>
+        <audio controls src="wavs/baseline/6_ref_speech.wav"></audio>
       </td>
     </tr>
 
@@ -503,7 +503,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/6_msenc.wav"></audio>
+              <audio controls src="wavs/baseline/6_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -512,7 +512,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/6_stts.wav"></audio>
+              <audio controls src="wavs/baseline/6_stts.wav"></audio>
             </td>
           </tr>
 
@@ -521,7 +521,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/6_indextts.wav"></audio>
+              <audio controls src="wavs/baseline/6_indextts.wav"></audio>
             </td>
           </tr>
 
@@ -530,7 +530,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/6_pacetts.wav"></audio>
+              <audio controls src="wavs/baseline/6_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -539,7 +539,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/6_gt.wav"></audio>
+              <audio controls src="wavs/baseline/6_gt.wav"></audio>
             </td>
           </tr>          
         </table>
@@ -557,7 +557,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/7_ref_speech.wav"></audio>
+        <audio controls src="wavs/baseline/7_ref_speech.wav"></audio>
       </td>
     </tr>
 
@@ -592,7 +592,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/7_msenc.wav"></audio>
+              <audio controls src="wavs/baseline/7_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -601,7 +601,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/7_stts.wav"></audio>
+              <audio controls src="wavs/baseline/7_stts.wav"></audio>
             </td>
           </tr>
 
@@ -610,7 +610,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/7_indextts.wav"></audio>
+              <audio controls src="wavs/baseline/7_indextts.wav"></audio>
             </td>
           </tr>
 
@@ -619,7 +619,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/7_pacetts.wav"></audio>
+              <audio controls src="wavs/baseline/7_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -628,7 +628,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/7_gt.wav"></audio>
+              <audio controls src="wavs/baseline/7_gt.wav"></audio>
             </td>
           </tr>          
         </table>
@@ -646,7 +646,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
     <tr>
       <th>Reference Speech</th>
       <td>
-        <audio controls src="wavs/samples/8_ref_speech.wav"></audio>
+        <audio controls src="wavs/baseline/8_ref_speech.wav"></audio>
       </td>
     </tr>
 
@@ -679,7 +679,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>MSenC:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/8_msenc.wav"></audio>
+              <audio controls src="wavs/baseline/8_msenc.wav"></audio>
             </td>
           </tr>
 
@@ -688,7 +688,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>StyleTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/8_stts.wav"></audio>
+              <audio controls src="wavs/baseline/8_stts.wav"></audio>
             </td>
           </tr>
 
@@ -697,7 +697,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>IndexTTS2:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/8_indextts.wav"></audio>
+              <audio controls src="wavs/baseline/8_indextts.wav"></audio>
             </td>
           </tr>
 
@@ -706,7 +706,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>PACE-TTS (Ours):</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/8_pacetts.wav"></audio>
+              <audio controls src="wavs/baseline/8_pacetts.wav"></audio>
             </td>
           </tr>
 
@@ -715,7 +715,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
               <b>Ground Truth:</b>
             </td>
             <td style="border:none;">
-              <audio controls src="wavs/samples/8_gt.wav"></audio>
+              <audio controls src="wavs/baseline/8_gt.wav"></audio>
             </td>
           </tr>          
         </table>
