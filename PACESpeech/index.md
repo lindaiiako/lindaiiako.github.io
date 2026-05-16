@@ -545,7 +545,7 @@ We showcase samples where the reference speech and dialog are the same, but **<u
 **Reference Speech (used for timbre):**  
 <audio controls src="wavs/diff_persona_1/ref_speech.wav"></audio>
 
-**Dialog History:**
+**Dialog History:**<br/>
 [SPK0]: I gotta. I run some slots down in West Bend for a mob here. I got a little behind in the payoffs, so they figure I've been holding out on. They gave me till four to come up with the cash. They don't get it. I'm dead.<br/>
 [SPK1]: It don't look good, Gramps. It's almost four now.<br/>
 [SPK0]: I'll give you and your friend 100 bucks to deliver it for me.<br/>
@@ -586,9 +586,9 @@ We showcase samples where the reference speech and dialog are the same, but **<u
     </tr>
     <tr>
       <td>
-        The speaker is a male adult <i>introvert.<br/>
+        The speaker is a male adult introvert.<br/>
         Job type: Corporate Executives & Finance Professionals.<br/>
-        The speaker is thinking out loud.</i>
+        The speaker is thinking out loud.
       </td>
       <td>
         moderate pitch,<br/>
@@ -602,8 +602,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
     <tr>
       <td>
         The speaker is a male adult.<br/>
-        <i>Job type: Emergency Responders, Military and Law Enforcers.<br/>
-        The speaker is speaking to: love interest.</i>
+        Job type: Emergency Responders, Military and Law Enforcers.<br/>
+        The speaker is speaking to: love interest.
       </td>
       <td>
         slightly high-pitch,<br/>
@@ -664,7 +664,7 @@ We showcase samples where the reference speech and dialog are the same, but **<u
       <td>
         The speaker is a female adult.<br/>
         Job type: Others<br/>
-        <i>The speaker is thinking out loud.</i>
+        The speaker is thinking out loud.
       </td>
       <td>
         moderate pitch,<br/>
@@ -677,9 +677,9 @@ We showcase samples where the reference speech and dialog are the same, but **<u
     </tr>
     <tr>
       <td>
-        The speaker is a female adult <i>introvert.<br/>
+        The speaker is a female adult introvert.<br/>
         Job type: Others<br/>
-        The speaker is speaking to: drug dealer.</i>
+        The speaker is speaking to: drug dealer.
       </td>
       <td>
         slightly high-pitch,<br/>
@@ -741,7 +741,7 @@ The speaker is speaking to: board member.
     </tr>
     <tr>
       <td>
-        (Same dialog)
+        <i>(Same dialog)</i><br/>
         [SPK0]: 20,000 shares. I'd be a millionaire now.<br/>
         [SPK1]: Sure, sure. We'd all be millionaires. There's no point in looking back. the time, Student thought that dumping our position would panic the market. Further depress the stock. Then we could buy it back. And more, of course, once it got cheap.<br/>
         [SPK0]: Cheap? Cheap? It's never been more valuable. I knew it. Really. Patterson? I'm getting off this merry-go-round.<br/>
@@ -760,7 +760,7 @@ The speaker is speaking to: board member.
     </tr>
     <tr>
       <td>
-        (Different dialog)
+        <i>(Different dialog)</i><br/>
         [SPK1]: You have the same posters.<br/>
         [SPK0]: What?<br/>
         [SPK1]: That you have down at your office.<br/>
@@ -779,7 +779,7 @@ The speaker is speaking to: board member.
     </tr>
     <tr>
       <td>
-        (Different dialog)
+        <i>(Different dialog)</i><br/>
         [SPK1]: Well, I predict that the world will end at the stroke of midnight on New Year's Eve.<br/>
         [SPK0]: This year?<br/>
         [SPK1]: Mm-hmm.<br/>
@@ -843,7 +843,7 @@ The speaker is speaking to: headmistress.
     </tr>
     <tr>
       <td>
-        (Same Dialog)
+        <i>(Same Dialog)</i><br/>
         [SPK0]: So what I do isn't worth doing, or what Miss Stubbs does, or Mrs Wilson, or any of us here. Because none of us would be here without a degree, you do realise that, don't you? And yes, of course, studying is hard and boring.<br/>
         [SPK1]: Boring?<br/>
         [SPK0]: I'm sorry?<br/>
@@ -862,7 +862,7 @@ The speaker is speaking to: headmistress.
     </tr>
     <tr>
       <td>
-        (Different Dialog)
+        <i>(Different Dialog)</i><br/>
         [SPK0]: Uh, sometimes our boyfriend's parents, they get divorced, you know, and it's important to remember, it's not your fault. So I gotta go.<br/>
         [SPK1]: But they go to our church. What will people say?<br/>
         [SPK0]: How long do these embraces usually last? Cause I gotta go. Are you gonna be okay?
@@ -881,7 +881,7 @@ The speaker is speaking to: headmistress.
     </tr>
     <tr>
       <td>
-        (Different Dialog)
+        <i>(Different Dialog)</i><br/>
         [SPK1]: Well, um... I think that depends on what you're... No, no.<br/>
         [SPK0]: That wasn't a question.<br/>
         [SPK1]: Um... I was editor-in-chief of the Daily Northwestern. I also won a national competition for a college journalist with my series on the janitor's union, which exposed the
