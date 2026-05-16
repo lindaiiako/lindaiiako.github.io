@@ -621,7 +621,7 @@ We showcase samples where the reference speech and dialog are the same, but **<u
 **Reference Speech (used for timbre):**  
 <audio controls src="wavs/diff_persona_2/ref_speech.wav"></audio>
 
-**Dialog History:**
+**Dialog History:**<br/>
 [SPK2]: I like smaller teams, like not the big leagues. I like the Long Island mediums. The acorn pine cones. The Fire Island Penguins. I like the Cincinnati Thunder Wizards.<br/>
 [SPK1]: You can stop.<br/>
 [SPK2]: The Orlando... Blooms?<br/>
@@ -695,7 +695,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
 
 ---
 ## ***Conversation-Aware***
-We showcase samples where the reference speech and persona descriptions are the same, but **<u>dialog is different</u>**. 
+We showcase samples where the reference speech and persona descriptions are the same, but **<u>dialog context is different</u>**. We show samples where utterances come from the same dialog (but different part) and also utterances from a different dialog/situational context.
+
 
 ### Sample #1
 **Reference Speech (used for timbre):**  
