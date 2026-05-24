@@ -42,7 +42,7 @@ This section presents audio samples from the PACESpeech dataset alongside speech
         DIALOG HISTORY:<br/>
         [SPK0]: Now you can live with that, can't you? Feelings are scary. Sometimes they're painful. And if you can't feel pain, then you're not gonna feel anything else either. You know what I'm saying?<br/><br/>
         NEXT UTTERANCE:<br/>
-        [SPK0]: You're here and you're alive. And don't tell me you don't feel that.
+        [SPK0]: You're here and you're alive. And don't tell me you don't feel that. 
       </td>
     </tr>
 
