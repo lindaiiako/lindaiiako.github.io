@@ -744,8 +744,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:65%">
-    <col style="width:35%">
+    <col style="width:70%">
+    <col style="width:30%">
   </colgroup>
 
   <thead>
@@ -762,7 +762,7 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is speaking to: good samaritan.<br/>
       </td>
       <td>
-        slightly high-pitch, expressive,<br/>moderate speed
+        slightly high-pitch,<br/>expressive,<br/>moderate speed
         <br/>
         <audio controls src="wavs/diff_persona_1/a.wav"></audio>
       </td>
@@ -774,7 +774,7 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is thinking out loud.
       </td>
       <td>
-        moderate pitch, monotone,<br/>fast
+        moderate pitch,<br/>monotone,<br/>fast
         <br/>
         <audio controls src="wavs/diff_persona_1/b.wav"></audio>
       </td>
@@ -786,7 +786,7 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is speaking to: love interest.
       </td>
       <td>
-        slightly high-pitch, expressive,<br/>fast
+        slightly high-pitch,<br/>expressive,<br/>fast
         <br/>
         <audio controls src="wavs/diff_persona_1/c.wav"></audio>
       </td>
@@ -809,8 +809,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:65%">
-    <col style="width:35%">
+    <col style="width:60%">
+    <col style="width:40%">
   </colgroup>
 
   <thead>
@@ -827,7 +827,7 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is speaking to: interview subject.
       </td>
       <td>
-        slightly high-pitch, slightly expressive,<br/>slightly slowly
+        slightly high-pitch,<br/>slightly expressive,<br/>slightly slowly
         <br/>
         <audio controls src="wavs/diff_persona_2/a.wav"></audio>
       </td>
@@ -839,7 +839,7 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is thinking out loud.
       </td>
       <td>
-        moderate pitch, very monotone,<br/>slightly slowly
+        moderate pitch,<br/>very monotone,<br/>slightly slowly
         <br/>
         <audio controls src="wavs/diff_persona_2/b.wav"></audio>
       </td>
@@ -851,7 +851,7 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is speaking to: drug dealer.
       </td>
       <td>
-        slightly high-pitch, very monotone,<br/>slightly slowly
+        slightly high-pitch,<br/>very monotone,<br/>slightly slowly
         <br/>
         <audio controls src="wavs/diff_persona_2/c.wav"></audio>
       </td>
@@ -896,7 +896,7 @@ The speaker is speaking to: board member.
         [SPK1]: Myrtle J. Musburger did not raise her boy to go knock-kneed at the first sign of adversity.
       </td>
       <td>
-        slightly low-pitch, expressive,<br/>slightly slowly
+        slightly low-pitch,<br/>expressive,<br/>slightly slowly
         <br/>
         <audio controls src="wavs/diff_situation_1/a.wav"></audio>
       </td>
@@ -912,7 +912,7 @@ The speaker is speaking to: board member.
         [SPK1]: I say, we made this chump. We can break him.
       </td>
       <td>
-        moderate pitch, expressive,<br/>slowly
+        moderate pitch,<br/>expressive,<br/>slowly
         <br/>
         <audio controls src="wavs/diff_situation_1/b.wav"></audio>
       </td>
@@ -928,7 +928,7 @@ The speaker is speaking to: board member.
         [SPK1]: Well, I like the colors.
       </td>
       <td>
-        low-pitch, very monotone,<br/>slowly
+        low-pitch,<br/>very monotone,<br/>slowly
         <br/>
         <audio controls src="wavs/diff_situation_1/c.wav"></audio>
       </td>
@@ -944,7 +944,7 @@ The speaker is speaking to: board member.
         [SPK1]: This is not just some money-making scheme, all right?
       </td>
       <td>
-        moderate pitch, slightly expressive,<br/>slightly slowly
+        moderate pitch,<br/>slightly expressive,<br/>slightly slowly
         <br/>
         <audio controls src="wavs/diff_situation_1/d.wav"></audio>
       </td>
@@ -984,7 +984,7 @@ The speaker is speaking to: headmistress.
         [SPK1]: Studying is hard and boring. Teaching is hard and boring. So what you're telling me is to be bored and then bored and finally bored again, but this time for the rest of my life.
       </td>
       <td>
-        high-pitch, expressive,<br/>moderate speed
+        high-pitch,<br/>expressive,<br/>moderate speed
         <br/>
         <audio controls src="wavs/diff_situation_2/a.wav"></audio>
       </td>
@@ -1000,7 +1000,7 @@ The speaker is speaking to: headmistress.
         [SPK1]: There's no life in it or colour or fun.
       </td>
       <td>
-        high-pitch, very expressive,<br/>slightly slowly
+        high-pitch,<br/>very expressive,<br/>slightly slowly
         <br/>
         <audio controls src="wavs/diff_situation_2/b.wav"></audio>
       </td>
@@ -1016,7 +1016,7 @@ The speaker is speaking to: headmistress.
         [SPK1]: Mrs. Griffith is amazing and she's gonna help Micah and everything's gonna be okay.
       </td>
       <td>
-        high-pitch, expressive,<br/>moderate speed
+        high-pitch,<br/>expressive,<br/>moderate speed
         <br/>
         <audio controls src="wavs/diff_situation_2/c.wav"></audio>
       </td>
@@ -1032,7 +1032,7 @@ The speaker is speaking to: headmistress.
         [SPK1]: You're right. I don't fit in here.
       </td>
       <td>
-        slightly high-pitch, very monotone,<br/>moderate speed
+        slightly high-pitch,<br/>very monotone,<br/>moderate speed
         <br/>
         <audio controls src="wavs/diff_situation_2/d.wav"></audio>
       </td>
