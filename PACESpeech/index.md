@@ -883,7 +883,7 @@ We showcase samples where the reference speech and dialog are the same, but **<u
 
 ---
 ## ***III. Conversation-Aware***
-We showcase samples where the reference speech and persona descriptions are the same, but **<u>dialog context is different</u>**. We show samples where utterances come from the same dialog (but different part) and also utterances from a different dialog/situational context.
+We showcase samples where the reference speech and persona descriptions are the same, but **<u>dialog context is different</u>**. We include samples where the utterance comes from a different part of the same dialog and an utterance from a different dialog.
 
 
 ### Sample #1
