@@ -744,8 +744,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:70%">
-    <col style="width:30%">
+    <col style="width:80%">
+    <col style="width:20%">
   </colgroup>
 
   <thead>
