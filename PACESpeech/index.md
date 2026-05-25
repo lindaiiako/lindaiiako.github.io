@@ -744,16 +744,14 @@ We showcase samples where the reference speech and dialog are the same, but **<u
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:70%">
-    <col style="width:25%">
-    <col style="width:5%">
+    <col style="width:80%">
+    <col style="width:20%">
   </colgroup>
 
   <thead>
     <tr>
       <th>Speaker Persona</th>
-      <th>Predicted Style</th>
-      <th>Output Speech</th>
+      <th>Predicted Style / Output Speech</th>
     </tr>
   </thead>
   <tbody>
@@ -764,11 +762,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is speaking to: good samaritan.<br/>
       </td>
       <td>
-        slightly high-pitch,<br/>
-        expressive,<br/>
-        moderate speed
-      </td>
-      <td>
+        slightly high-pitch, expressive, moderate speed
+        <br/>
         <audio controls src="wavs/diff_persona_1/a.wav"></audio>
       </td>
     </tr>
@@ -779,11 +774,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is thinking out loud.
       </td>
       <td>
-        moderate pitch,<br/>
-        monotone,<br/>
-        fast
-      </td>
-      <td>
+        moderate pitch, monotone, fast
+        <br/>
         <audio controls src="wavs/diff_persona_1/b.wav"></audio>
       </td>
     </tr>
@@ -794,11 +786,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is speaking to: love interest.
       </td>
       <td>
-        slightly high-pitch,<br/>
-        expressive,<br/>
-        fast
-      </td>
-      <td>
+        slightly high-pitch, expressive, fast
+        <br/>
         <audio controls src="wavs/diff_persona_1/c.wav"></audio>
       </td>
     </tr>
@@ -820,16 +809,14 @@ We showcase samples where the reference speech and dialog are the same, but **<u
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:70%">
-    <col style="width:25%">
-    <col style="width:5%">
+    <col style="width:80%">
+    <col style="width:20%">
   </colgroup>
 
   <thead>
     <tr>
       <th>Speaker Persona</th>
-      <th>Predicted Style</th>
-      <th>Output Speech</th>
+      <th>Predicted Style / Output Speech</th>
     </tr>
   </thead>
   <tbody>
@@ -840,11 +827,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is speaking to: interview subject.
       </td>
       <td>
-        slightly high-pitch,<br/>
-        slightly expressive,<br/>
-        slightly slowly
-      </td>
-      <td>
+        slightly high-pitch, slightly expressive, slightly slowly
+        <br/>
         <audio controls src="wavs/diff_persona_2/a.wav"></audio>
       </td>
     </tr>
@@ -855,11 +839,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is thinking out loud.
       </td>
       <td>
-        moderate pitch,<br/>
-        very monotone,<br/>
-        slightly slowly
-      </td>
-      <td>
+        moderate pitch, very monotone, slightly slowly
+        <br/>
         <audio controls src="wavs/diff_persona_2/b.wav"></audio>
       </td>
     </tr>
@@ -870,11 +851,8 @@ We showcase samples where the reference speech and dialog are the same, but **<u
         The speaker is speaking to: drug dealer.
       </td>
       <td>
-        slightly high-pitch,<br/>
-        very monotone,<br/>
-        slightly slowly
-      </td>
-      <td>
+        slightly high-pitch, very monotone, slightly slowly
+        <br/>
         <audio controls src="wavs/diff_persona_2/c.wav"></audio>
       </td>
     </tr>
@@ -897,16 +875,14 @@ The speaker is speaking to: board member.
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:70%">
-    <col style="width:25%">
-    <col style="width:5%">
+    <col style="width:80%">
+    <col style="width:20%">
   </colgroup>
 
   <thead>
     <tr>
       <th>Dialog</th>
-      <th>Predicted Style</th>
-      <th>Output Speech</th>
+      <th>Predicted Style / Output Speech</th>
     </tr>
   </thead>
   <tbody>
@@ -920,11 +896,8 @@ The speaker is speaking to: board member.
         [SPK1]: Myrtle J. Musburger did not raise her boy to go knock-kneed at the first sign of adversity.
       </td>
       <td>
-        slightly low-pitch,<br/>
-        expressive,<br/>
-        slightly slowly
-      </td>
-      <td>
+        slightly low-pitch, expressive, slightly slowly
+        <br/>
         <audio controls src="wavs/diff_situation_1/a.wav"></audio>
       </td>
     </tr>
@@ -939,11 +912,8 @@ The speaker is speaking to: board member.
         [SPK1]: I say, we made this chump. We can break him.
       </td>
       <td>
-        moderate pitch,<br/>
-        expressive,<br/>
-        slowly
-      </td>
-      <td>
+        moderate pitch, expressive, slowly
+        <br/>
         <audio controls src="wavs/diff_situation_1/b.wav"></audio>
       </td>
     </tr>
@@ -958,11 +928,8 @@ The speaker is speaking to: board member.
         [SPK1]: Well, I like the colors.
       </td>
       <td>
-        low-pitch,<br/>
-        very monotone,<br/>
-        slowly
-      </td>
-      <td>
+        low-pitch, very monotone, slowly
+        <br/>
         <audio controls src="wavs/diff_situation_1/c.wav"></audio>
       </td>
     </tr>
@@ -977,11 +944,8 @@ The speaker is speaking to: board member.
         [SPK1]: This is not just some money-making scheme, all right?
       </td>
       <td>
-        moderate pitch,<br/>
-        slightly expressive,<br/>
-        slightly slowly
-      </td>
-      <td>
+        moderate pitch, slightly expressive, slightly slowly
+        <br/>
         <audio controls src="wavs/diff_situation_1/d.wav"></audio>
       </td>
     </tr>
@@ -999,16 +963,14 @@ The speaker is speaking to: headmistress.
 
 <table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width:70%">
-    <col style="width:25%">
-    <col style="width:5%">
+    <col style="width:80%">
+    <col style="width:20%">
   </colgroup>
 
   <thead>
     <tr>
       <th>Dialog</th>
-      <th>Predicted Style</th>
-      <th>Output Speech</th>
+      <th>Predicted Style / Output Speech</th>
     </tr>
   </thead>
   <tbody>
@@ -1022,11 +984,8 @@ The speaker is speaking to: headmistress.
         [SPK1]: Studying is hard and boring. Teaching is hard and boring. So what you're telling me is to be bored and then bored and finally bored again, but this time for the rest of my life.
       </td>
       <td>
-        high-pitch,<br/>
-        expressive,<br/>
-        moderate speed
-      </td>
-      <td>
+        high-pitch, expressive, moderate speed
+        <br/>
         <audio controls src="wavs/diff_situation_2/a.wav"></audio>
       </td>
     </tr>
@@ -1041,11 +1000,8 @@ The speaker is speaking to: headmistress.
         [SPK1]: There's no life in it or colour or fun.
       </td>
       <td>
-        high-pitch,<br/>
-        very expressive,<br/>
-        slightly slowly
-      </td>
-      <td>
+        high-pitch, very expressive, slightly slowly
+        <br/>
         <audio controls src="wavs/diff_situation_2/b.wav"></audio>
       </td>
     </tr>
@@ -1060,11 +1016,8 @@ The speaker is speaking to: headmistress.
         [SPK1]: Mrs. Griffith is amazing and she's gonna help Micah and everything's gonna be okay.
       </td>
       <td>
-        high-pitch,<br/>
-        expressive,<br/>
-        moderate speed
-      </td>
-      <td>
+        high-pitch, expressive, moderate speed
+        <br/>
         <audio controls src="wavs/diff_situation_2/c.wav"></audio>
       </td>
     </tr>
@@ -1079,11 +1032,8 @@ The speaker is speaking to: headmistress.
         [SPK1]: You're right. I don't fit in here.
       </td>
       <td>
-        slightly high-pitch,<br/>
-        very monotone,<br/>
-        moderate speed
-      </td>
-      <td>
+        slightly high-pitch, very monotone, moderate speed
+        <br/>
         <audio controls src="wavs/diff_situation_2/d.wav"></audio>
       </td>
     </tr>
