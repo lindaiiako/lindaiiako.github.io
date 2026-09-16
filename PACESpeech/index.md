@@ -4,6 +4,8 @@ title: "Persona-Aware Contextual Expressive TTS"
 ## ***Abstract***
 Despite advances in expressive and conversational TTS, existing approaches exhibit limitations. Expressive TTS requires explicit style input or reference speech for style transfer, while conversational TTS support limited interaction types and emotional expression. Moreover, neither paradigm accounts for speaker attributes that influence speech expression across contexts. To bridge the gap between expressive and conversational TTS, we introduce a novel task that jointly incorporates speaker persona and dialog context for expressive speech synthesis. To support this task, we construct PACESpeech, a persona-annotated conversational speech dataset comprising of 14,230 utterances from 1,067 speakers and over 13 hours of speech. We also propose a baseline model for this new task consisting of an LLM-based speech style predictor and a TTS model, and show its effectiveness over several baselines in generating natural and coherent expressive speech.
 
+[Dataset Link](https://huggingface.co/datasets/lindaiiako/PACESpeech).
+
 ---
 
 ## ***I. Audio Demo***
